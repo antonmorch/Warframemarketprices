@@ -1,39 +1,39 @@
 {
- "time": "2026-10-04 11:44 UTC",
+ "time": "2026-10-04 16:20 UTC",
  "rows": [
   {
    "set": "Acceltra Prime Set",
    "slug": "acceltra_prime_set",
    "category": "weapon",
-   "set_price_ingame": 40,
-   "set_price_online": 40,
-   "parts_sum_ingame": 42,
-   "parts_sum_online": 38,
+   "set_price_ingame": 35,
+   "set_price_online": 35,
+   "parts_sum_ingame": 34,
+   "parts_sum_online": 32,
    "missing_parts": 0,
-   "difference_ingame": 2,
-   "difference_online": -2,
-   "pct_ingame": 5.0,
-   "pct_online": -5.0,
+   "difference_ingame": -1,
+   "difference_online": -3,
+   "pct_ingame": -2.9,
+   "pct_online": -8.6,
    "parts": [
     {
      "slug": "acceltra_prime_barrel",
-     "ingame": 14,
+     "ingame": 12,
      "online": 10
     },
     {
      "slug": "acceltra_prime_blueprint",
-     "ingame": 4,
-     "online": 4
+     "ingame": 2,
+     "online": 2
     },
     {
      "slug": "acceltra_prime_receiver",
-     "ingame": 5,
-     "online": 5
+     "ingame": 2,
+     "online": 2
     },
     {
      "slug": "acceltra_prime_stock",
-     "ingame": 19,
-     "online": 19
+     "ingame": 18,
+     "online": 18
     }
    ]
   },
@@ -41,15 +41,15 @@
    "set": "Afentis Prime Set",
    "slug": "afentis_prime_set",
    "category": "weapon",
-   "set_price_ingame": 36,
-   "set_price_online": 36,
-   "parts_sum_ingame": 31,
-   "parts_sum_online": 31,
+   "set_price_ingame": 35,
+   "set_price_online": 35,
+   "parts_sum_ingame": 30,
+   "parts_sum_online": 30,
    "missing_parts": 0,
    "difference_ingame": -5,
    "difference_online": -5,
-   "pct_ingame": -13.9,
-   "pct_online": -13.9,
+   "pct_ingame": -14.3,
+   "pct_online": -14.3,
    "parts": [
     {
      "slug": "afentis_prime_barrel",
@@ -58,8 +58,8 @@
     },
     {
      "slug": "afentis_prime_blade",
-     "ingame": 9,
-     "online": 9
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "afentis_prime_blueprint",
@@ -89,13 +89,13 @@
    "parts": [
     {
      "slug": "afuris_prime_barrel",
-     "ingame": 7,
-     "online": 7
+     "ingame": 6,
+     "online": 6
     },
     {
      "slug": "afuris_prime_blueprint",
-     "ingame": 4,
-     "online": 4
+     "ingame": 2,
+     "online": 2
     },
     {
      "slug": "afuris_prime_link",
@@ -104,8 +104,8 @@
     },
     {
      "slug": "afuris_prime_receiver",
-     "ingame": 32,
-     "online": 32
+     "ingame": 35,
+     "online": 35
     }
    ]
   },
@@ -115,22 +115,22 @@
    "category": "weapon",
    "set_price_ingame": 89,
    "set_price_online": 89,
-   "parts_sum_ingame": 50,
-   "parts_sum_online": 47,
+   "parts_sum_ingame": 49,
+   "parts_sum_online": 49,
    "missing_parts": 0,
-   "difference_ingame": -39,
-   "difference_online": -42,
-   "pct_ingame": -43.8,
-   "pct_online": -47.2,
+   "difference_ingame": -40,
+   "difference_online": -40,
+   "pct_ingame": -44.9,
+   "pct_online": -44.9,
    "parts": [
     {
      "slug": "akarius_prime_barrel",
-     "ingame": 6,
-     "online": 6
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "akarius_prime_blueprint",
-     "ingame": 15,
+     "ingame": 12,
      "online": 12
     },
     {
@@ -149,15 +149,15 @@
    "set": "Akbolto Prime Set",
    "slug": "akbolto_prime_set",
    "category": "weapon",
-   "set_price_ingame": 70,
-   "set_price_online": 70,
-   "parts_sum_ingame": 39,
-   "parts_sum_online": 38,
+   "set_price_ingame": 75,
+   "set_price_online": 75,
+   "parts_sum_ingame": 36,
+   "parts_sum_online": 36,
    "missing_parts": 0,
-   "difference_ingame": -31,
-   "difference_online": -32,
-   "pct_ingame": -44.3,
-   "pct_online": -45.7,
+   "difference_ingame": -39,
+   "difference_online": -39,
+   "pct_ingame": -52.0,
+   "pct_online": -52.0,
    "parts": [
     {
      "slug": "akbolto_prime_barrel",
@@ -166,8 +166,8 @@
     },
     {
      "slug": "akbolto_prime_blueprint",
-     "ingame": 3,
-     "online": 3
+     "ingame": 2,
+     "online": 2
     },
     {
      "slug": "akbolto_prime_link",
@@ -176,8 +176,8 @@
     },
     {
      "slug": "akbolto_prime_receiver",
-     "ingame": 25,
-     "online": 24
+     "ingame": 23,
+     "online": 23
     }
    ]
   },
@@ -186,14 +186,14 @@
    "slug": "akbronco_prime_set",
    "category": "weapon",
    "set_price_ingame": 8,
-   "set_price_online": 8,
-   "parts_sum_ingame": 5,
-   "parts_sum_online": 5,
+   "set_price_online": 1,
+   "parts_sum_ingame": 4,
+   "parts_sum_online": 4,
    "missing_parts": 0,
-   "difference_ingame": -3,
-   "difference_online": -3,
-   "pct_ingame": -37.5,
-   "pct_online": -37.5,
+   "difference_ingame": -4,
+   "difference_online": 3,
+   "pct_ingame": -50.0,
+   "pct_online": 300.0,
    "parts": [
     {
      "slug": "akbronco_prime_blueprint",
@@ -202,8 +202,8 @@
     },
     {
      "slug": "akbronco_prime_link",
-     "ingame": 3,
-     "online": 3
+     "ingame": 2,
+     "online": 2
     }
    ]
   },
@@ -213,23 +213,23 @@
    "category": "weapon",
    "set_price_ingame": 100,
    "set_price_online": 100,
-   "parts_sum_ingame": 44,
-   "parts_sum_online": 44,
+   "parts_sum_ingame": 55,
+   "parts_sum_online": 45,
    "missing_parts": 0,
-   "difference_ingame": -56,
-   "difference_online": -56,
-   "pct_ingame": -56.0,
-   "pct_online": -56.0,
+   "difference_ingame": -45,
+   "difference_online": -55,
+   "pct_ingame": -45.0,
+   "pct_online": -55.0,
    "parts": [
     {
      "slug": "akjagara_prime_barrel",
-     "ingame": 24,
-     "online": 24
+     "ingame": 30,
+     "online": 25
     },
     {
      "slug": "akjagara_prime_blueprint",
-     "ingame": 3,
-     "online": 3
+     "ingame": 2,
+     "online": 2
     },
     {
      "slug": "akjagara_prime_link",
@@ -238,8 +238,8 @@
     },
     {
      "slug": "akjagara_prime_receiver",
-     "ingame": 9,
-     "online": 9
+     "ingame": 15,
+     "online": 10
     }
    ]
   },
@@ -249,23 +249,23 @@
    "category": "weapon",
    "set_price_ingame": 38,
    "set_price_online": 38,
-   "parts_sum_ingame": 32,
-   "parts_sum_online": 32,
+   "parts_sum_ingame": 36,
+   "parts_sum_online": 36,
    "missing_parts": 0,
-   "difference_ingame": -6,
-   "difference_online": -6,
-   "pct_ingame": -15.8,
-   "pct_online": -15.8,
+   "difference_ingame": -2,
+   "difference_online": -2,
+   "pct_ingame": -5.3,
+   "pct_online": -5.3,
    "parts": [
     {
      "slug": "aklex_prime_blueprint",
-     "ingame": 7,
-     "online": 7
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "aklex_prime_link",
-     "ingame": 25,
-     "online": 25
+     "ingame": 28,
+     "online": 28
     }
    ]
   },
@@ -275,23 +275,23 @@
    "category": "weapon",
    "set_price_ingame": 28,
    "set_price_online": 28,
-   "parts_sum_ingame": 18,
-   "parts_sum_online": 18,
+   "parts_sum_ingame": 15,
+   "parts_sum_online": 15,
    "missing_parts": 0,
-   "difference_ingame": -10,
-   "difference_online": -10,
-   "pct_ingame": -35.7,
-   "pct_online": -35.7,
+   "difference_ingame": -13,
+   "difference_online": -13,
+   "pct_ingame": -46.4,
+   "pct_online": -46.4,
    "parts": [
     {
      "slug": "akmagnus_prime_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 7,
+     "online": 7
     },
     {
      "slug": "akmagnus_prime_link",
-     "ingame": 9,
-     "online": 9
+     "ingame": 8,
+     "online": 8
     }
    ]
   },
@@ -299,15 +299,15 @@
    "set": "Aksomati Prime Set",
    "slug": "aksomati_prime_set",
    "category": "weapon",
-   "set_price_ingame": 98,
-   "set_price_online": 98,
-   "parts_sum_ingame": 58,
-   "parts_sum_online": 57,
+   "set_price_ingame": 95,
+   "set_price_online": 95,
+   "parts_sum_ingame": 54,
+   "parts_sum_online": 54,
    "missing_parts": 0,
-   "difference_ingame": -40,
+   "difference_ingame": -41,
    "difference_online": -41,
-   "pct_ingame": -40.8,
-   "pct_online": -41.8,
+   "pct_ingame": -43.2,
+   "pct_online": -43.2,
    "parts": [
     {
      "slug": "aksomati_prime_barrel",
@@ -321,13 +321,13 @@
     },
     {
      "slug": "aksomati_prime_link",
-     "ingame": 29,
-     "online": 28
+     "ingame": 30,
+     "online": 30
     },
     {
      "slug": "aksomati_prime_receiver",
-     "ingame": 15,
-     "online": 15
+     "ingame": 10,
+     "online": 10
     }
    ]
   },
@@ -337,22 +337,22 @@
    "category": "weapon",
    "set_price_ingame": 110,
    "set_price_online": 110,
-   "parts_sum_ingame": 59,
+   "parts_sum_ingame": 60,
    "parts_sum_online": 59,
    "missing_parts": 0,
-   "difference_ingame": -51,
+   "difference_ingame": -50,
    "difference_online": -51,
-   "pct_ingame": -46.4,
+   "pct_ingame": -45.5,
    "pct_online": -46.4,
    "parts": [
     {
      "slug": "akstiletto_prime_barrel",
-     "ingame": 13,
-     "online": 13
+     "ingame": 15,
+     "online": 15
     },
     {
      "slug": "akstiletto_prime_blueprint",
-     "ingame": 14,
+     "ingame": 15,
      "online": 14
     },
     {
@@ -362,8 +362,8 @@
     },
     {
      "slug": "akstiletto_prime_receiver",
-     "ingame": 22,
-     "online": 22
+     "ingame": 20,
+     "online": 20
     }
    ]
   },
@@ -373,22 +373,22 @@
    "category": "weapon",
    "set_price_ingame": 50,
    "set_price_online": 50,
-   "parts_sum_ingame": 37,
-   "parts_sum_online": 36,
+   "parts_sum_ingame": 38,
+   "parts_sum_online": 37,
    "missing_parts": 0,
-   "difference_ingame": -13,
-   "difference_online": -14,
-   "pct_ingame": -26.0,
-   "pct_online": -28.0,
+   "difference_ingame": -12,
+   "difference_online": -13,
+   "pct_ingame": -24.0,
+   "pct_online": -26.0,
    "parts": [
     {
      "slug": "akvasto_prime_blueprint",
      "ingame": 28,
-     "online": 27
+     "online": 28
     },
     {
      "slug": "akvasto_prime_link",
-     "ingame": 9,
+     "ingame": 10,
      "online": 9
     }
    ]
@@ -397,35 +397,35 @@
    "set": "Alternox Prime Set",
    "slug": "alternox_prime_set",
    "category": "weapon",
-   "set_price_ingame": 20,
-   "set_price_online": 20,
-   "parts_sum_ingame": 23,
-   "parts_sum_online": 22,
+   "set_price_ingame": 19,
+   "set_price_online": 19,
+   "parts_sum_ingame": 17,
+   "parts_sum_online": 16,
    "missing_parts": 0,
-   "difference_ingame": 3,
-   "difference_online": 2,
-   "pct_ingame": 15.0,
-   "pct_online": 10.0,
+   "difference_ingame": -2,
+   "difference_online": -3,
+   "pct_ingame": -10.5,
+   "pct_online": -15.8,
    "parts": [
     {
      "slug": "alternox_prime_barrel",
+     "ingame": 3,
+     "online": 3
+    },
+    {
+     "slug": "alternox_prime_blueprint",
      "ingame": 4,
      "online": 4
     },
     {
-     "slug": "alternox_prime_blueprint",
-     "ingame": 7,
-     "online": 7
-    },
-    {
      "slug": "alternox_prime_receiver",
      "ingame": 3,
-     "online": 2
+     "online": 3
     },
     {
      "slug": "alternox_prime_stock",
-     "ingame": 9,
-     "online": 9
+     "ingame": 7,
+     "online": 6
     }
    ]
   },
@@ -435,18 +435,18 @@
    "category": "weapon",
    "set_price_ingame": 49,
    "set_price_online": 49,
-   "parts_sum_ingame": 27,
-   "parts_sum_online": 27,
+   "parts_sum_ingame": 24,
+   "parts_sum_online": 24,
    "missing_parts": 0,
-   "difference_ingame": -22,
-   "difference_online": -22,
-   "pct_ingame": -44.9,
-   "pct_online": -44.9,
+   "difference_ingame": -25,
+   "difference_online": -25,
+   "pct_ingame": -51.0,
+   "pct_online": -51.0,
    "parts": [
     {
      "slug": "ankyros_prime_blade",
-     "ingame": 9,
-     "online": 9
+     "ingame": 6,
+     "online": 6
     },
     {
      "slug": "ankyros_prime_blueprint",
@@ -465,34 +465,34 @@
    "slug": "ash_prime_set",
    "category": "warframe",
    "set_price_ingame": 65,
-   "set_price_online": 63,
-   "parts_sum_ingame": 49,
-   "parts_sum_online": 47,
+   "set_price_online": 65,
+   "parts_sum_ingame": 50,
+   "parts_sum_online": 50,
    "missing_parts": 0,
-   "difference_ingame": -16,
-   "difference_online": -16,
-   "pct_ingame": -24.6,
-   "pct_online": -25.4,
+   "difference_ingame": -15,
+   "difference_online": -15,
+   "pct_ingame": -23.1,
+   "pct_online": -23.1,
    "parts": [
     {
      "slug": "ash_prime_blueprint",
-     "ingame": 12,
-     "online": 11
+     "ingame": 10,
+     "online": 10
     },
     {
      "slug": "ash_prime_chassis_blueprint",
-     "ingame": 11,
-     "online": 11
+     "ingame": 12,
+     "online": 12
     },
     {
      "slug": "ash_prime_neuroptics_blueprint",
      "ingame": 10,
-     "online": 9
+     "online": 10
     },
     {
      "slug": "ash_prime_systems_blueprint",
-     "ingame": 16,
-     "online": 16
+     "ingame": 18,
+     "online": 18
     }
    ]
   },
@@ -500,25 +500,25 @@
    "set": "Astilla Prime Set",
    "slug": "astilla_prime_set",
    "category": "weapon",
-   "set_price_ingame": 38,
-   "set_price_online": 38,
-   "parts_sum_ingame": 35,
+   "set_price_ingame": 35,
+   "set_price_online": 35,
+   "parts_sum_ingame": 34,
    "parts_sum_online": 34,
    "missing_parts": 0,
-   "difference_ingame": -3,
-   "difference_online": -4,
-   "pct_ingame": -7.9,
-   "pct_online": -10.5,
+   "difference_ingame": -1,
+   "difference_online": -1,
+   "pct_ingame": -2.9,
+   "pct_online": -2.9,
    "parts": [
     {
      "slug": "astilla_prime_barrel",
-     "ingame": 19,
-     "online": 18
+     "ingame": 15,
+     "online": 15
     },
     {
      "slug": "astilla_prime_blueprint",
-     "ingame": 3,
-     "online": 3
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "astilla_prime_receiver",
@@ -527,8 +527,8 @@
     },
     {
      "slug": "astilla_prime_stock",
-     "ingame": 5,
-     "online": 5
+     "ingame": 7,
+     "online": 7
     }
    ]
   },
@@ -536,20 +536,20 @@
    "set": "Athodai Prime Set",
    "slug": "athodai_prime_set",
    "category": "weapon",
-   "set_price_ingame": 18,
-   "set_price_online": 18,
+   "set_price_ingame": 25,
+   "set_price_online": 25,
    "parts_sum_ingame": 20,
    "parts_sum_online": 20,
    "missing_parts": 0,
-   "difference_ingame": 2,
-   "difference_online": 2,
-   "pct_ingame": 11.1,
-   "pct_online": 11.1,
+   "difference_ingame": -5,
+   "difference_online": -5,
+   "pct_ingame": -20.0,
+   "pct_online": -20.0,
    "parts": [
     {
      "slug": "athodai_prime_barrel",
-     "ingame": 8,
-     "online": 8
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "athodai_prime_blueprint",
@@ -558,8 +558,8 @@
     },
     {
      "slug": "athodai_prime_receiver",
-     "ingame": 8,
-     "online": 8
+     "ingame": 7,
+     "online": 7
     }
    ]
   },
@@ -567,25 +567,25 @@
    "set": "Atlas Prime Set",
    "slug": "atlas_prime_set",
    "category": "warframe",
-   "set_price_ingame": 69,
-   "set_price_online": 68,
-   "parts_sum_ingame": 69,
-   "parts_sum_online": 65,
+   "set_price_ingame": 65,
+   "set_price_online": 65,
+   "parts_sum_ingame": 68,
+   "parts_sum_online": 66,
    "missing_parts": 0,
-   "difference_ingame": 0,
-   "difference_online": -3,
-   "pct_ingame": 0.0,
-   "pct_online": -4.4,
+   "difference_ingame": 3,
+   "difference_online": 1,
+   "pct_ingame": 4.6,
+   "pct_online": 1.5,
    "parts": [
     {
      "slug": "atlas_prime_blueprint",
-     "ingame": 4,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "atlas_prime_chassis_blueprint",
-     "ingame": 7,
-     "online": 5
+     "ingame": 8,
+     "online": 6
     },
     {
      "slug": "atlas_prime_neuroptics_blueprint",
@@ -594,8 +594,8 @@
     },
     {
      "slug": "atlas_prime_systems_blueprint",
-     "ingame": 5,
-     "online": 3
+     "ingame": 4,
+     "online": 4
     }
    ]
   },
@@ -603,25 +603,25 @@
    "set": "Ballistica Prime Set",
    "slug": "ballistica_prime_set",
    "category": "weapon",
-   "set_price_ingame": 104,
-   "set_price_online": 104,
-   "parts_sum_ingame": 89,
-   "parts_sum_online": 82,
+   "set_price_ingame": 108,
+   "set_price_online": 108,
+   "parts_sum_ingame": 87,
+   "parts_sum_online": 85,
    "missing_parts": 0,
-   "difference_ingame": -15,
-   "difference_online": -22,
-   "pct_ingame": -14.4,
-   "pct_online": -21.2,
+   "difference_ingame": -21,
+   "difference_online": -23,
+   "pct_ingame": -19.4,
+   "pct_online": -21.3,
    "parts": [
     {
      "slug": "ballistica_prime_blueprint",
-     "ingame": 40,
-     "online": 35
+     "ingame": 39,
+     "online": 39
     },
     {
      "slug": "ballistica_prime_lower_limb",
-     "ingame": 8,
-     "online": 8
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "ballistica_prime_receiver",
@@ -630,8 +630,8 @@
     },
     {
      "slug": "ballistica_prime_string",
-     "ingame": 22,
-     "online": 22
+     "ingame": 20,
+     "online": 20
     },
     {
      "slug": "ballistica_prime_upper_limb",
@@ -644,35 +644,35 @@
    "set": "Banshee Prime Set",
    "slug": "banshee_prime_set",
    "category": "warframe",
-   "set_price_ingame": 59,
-   "set_price_online": 59,
-   "parts_sum_ingame": 53,
-   "parts_sum_online": 53,
+   "set_price_ingame": 63,
+   "set_price_online": 63,
+   "parts_sum_ingame": 57,
+   "parts_sum_online": 56,
    "missing_parts": 0,
    "difference_ingame": -6,
-   "difference_online": -6,
-   "pct_ingame": -10.2,
-   "pct_online": -10.2,
+   "difference_online": -7,
+   "pct_ingame": -9.5,
+   "pct_online": -11.1,
    "parts": [
     {
      "slug": "banshee_prime_blueprint",
-     "ingame": 7,
-     "online": 7
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "banshee_prime_chassis_blueprint",
-     "ingame": 24,
-     "online": 24
+     "ingame": 25,
+     "online": 25
     },
     {
      "slug": "banshee_prime_neuroptics_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "banshee_prime_systems_blueprint",
-     "ingame": 17,
-     "online": 17
+     "ingame": 20,
+     "online": 19
     }
    ]
   },
@@ -680,35 +680,35 @@
    "set": "Baruuk Prime Set",
    "slug": "baruuk_prime_set",
    "category": "warframe",
-   "set_price_ingame": 43,
-   "set_price_online": 43,
-   "parts_sum_ingame": 38,
-   "parts_sum_online": 33,
+   "set_price_ingame": 45,
+   "set_price_online": 45,
+   "parts_sum_ingame": 37,
+   "parts_sum_online": 34,
    "missing_parts": 0,
-   "difference_ingame": -5,
-   "difference_online": -10,
-   "pct_ingame": -11.6,
-   "pct_online": -23.3,
+   "difference_ingame": -8,
+   "difference_online": -11,
+   "pct_ingame": -17.8,
+   "pct_online": -24.4,
    "parts": [
     {
      "slug": "baruuk_prime_blueprint",
-     "ingame": 15,
-     "online": 10
+     "ingame": 14,
+     "online": 14
     },
     {
      "slug": "baruuk_prime_chassis_blueprint",
-     "ingame": 4,
-     "online": 4
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "baruuk_prime_neuroptics_blueprint",
-     "ingame": 12,
-     "online": 12
+     "ingame": 13,
+     "online": 10
     },
     {
      "slug": "baruuk_prime_systems_blueprint",
-     "ingame": 7,
-     "online": 7
+     "ingame": 5,
+     "online": 5
     }
    ]
   },
@@ -716,20 +716,20 @@
    "set": "Baza Prime Set",
    "slug": "baza_prime_set",
    "category": "weapon",
-   "set_price_ingame": 69,
-   "set_price_online": 69,
-   "parts_sum_ingame": 49,
-   "parts_sum_online": 47,
+   "set_price_ingame": 65,
+   "set_price_online": 65,
+   "parts_sum_ingame": 37,
+   "parts_sum_online": 37,
    "missing_parts": 0,
-   "difference_ingame": -20,
-   "difference_online": -22,
-   "pct_ingame": -29.0,
-   "pct_online": -31.9,
+   "difference_ingame": -28,
+   "difference_online": -28,
+   "pct_ingame": -43.1,
+   "pct_online": -43.1,
    "parts": [
     {
      "slug": "baza_prime_barrel",
-     "ingame": 7,
-     "online": 7
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "baza_prime_blueprint",
@@ -743,8 +743,8 @@
     },
     {
      "slug": "baza_prime_stock",
-     "ingame": 25,
-     "online": 23
+     "ingame": 15,
+     "online": 15
     }
    ]
   },
@@ -754,28 +754,28 @@
    "category": "weapon",
    "set_price_ingame": 75,
    "set_price_online": 75,
-   "parts_sum_ingame": 52,
-   "parts_sum_online": 50,
+   "parts_sum_ingame": 54,
+   "parts_sum_online": 54,
    "missing_parts": 0,
-   "difference_ingame": -23,
-   "difference_online": -25,
-   "pct_ingame": -30.7,
-   "pct_online": -33.3,
+   "difference_ingame": -21,
+   "difference_online": -21,
+   "pct_ingame": -28.0,
+   "pct_online": -28.0,
    "parts": [
     {
      "slug": "bo_prime_blueprint",
-     "ingame": 14,
-     "online": 14
+     "ingame": 12,
+     "online": 12
     },
     {
      "slug": "bo_prime_handle",
-     "ingame": 13,
-     "online": 13
+     "ingame": 18,
+     "online": 18
     },
     {
      "slug": "bo_prime_ornament",
-     "ingame": 25,
-     "online": 23
+     "ingame": 24,
+     "online": 24
     }
    ]
   },
@@ -783,35 +783,35 @@
    "set": "Boar Prime Set",
    "slug": "boar_prime_set",
    "category": "weapon",
-   "set_price_ingame": 85,
-   "set_price_online": 85,
-   "parts_sum_ingame": 88,
-   "parts_sum_online": 86,
+   "set_price_ingame": 83,
+   "set_price_online": 83,
+   "parts_sum_ingame": 86,
+   "parts_sum_online": 81,
    "missing_parts": 0,
    "difference_ingame": 3,
-   "difference_online": 1,
-   "pct_ingame": 3.5,
-   "pct_online": 1.2,
+   "difference_online": -2,
+   "pct_ingame": 3.6,
+   "pct_online": -2.4,
    "parts": [
     {
      "slug": "boar_prime_barrel",
      "ingame": 18,
-     "online": 17
+     "online": 18
     },
     {
      "slug": "boar_prime_blueprint",
-     "ingame": 10,
-     "online": 10
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "boar_prime_receiver",
-     "ingame": 15,
+     "ingame": 14,
      "online": 14
     },
     {
      "slug": "boar_prime_stock",
      "ingame": 45,
-     "online": 45
+     "online": 40
     }
    ]
   },
@@ -819,19 +819,19 @@
    "set": "Boltor Prime Set",
    "slug": "boltor_prime_set",
    "category": "weapon",
-   "set_price_ingame": 52,
-   "set_price_online": 52,
-   "parts_sum_ingame": 38,
-   "parts_sum_online": 38,
+   "set_price_ingame": 50,
+   "set_price_online": 50,
+   "parts_sum_ingame": 41,
+   "parts_sum_online": 39,
    "missing_parts": 0,
-   "difference_ingame": -14,
-   "difference_online": -14,
-   "pct_ingame": -26.9,
-   "pct_online": -26.9,
+   "difference_ingame": -9,
+   "difference_online": -11,
+   "pct_ingame": -18.0,
+   "pct_online": -22.0,
    "parts": [
     {
      "slug": "boltor_prime_barrel",
-     "ingame": 10,
+     "ingame": 12,
      "online": 10
     },
     {
@@ -846,8 +846,8 @@
     },
     {
      "slug": "boltor_prime_stock",
-     "ingame": 7,
-     "online": 7
+     "ingame": 8,
+     "online": 8
     }
    ]
   },
@@ -855,20 +855,20 @@
    "set": "Braton Prime Set",
    "slug": "braton_prime_set",
    "category": "weapon",
-   "set_price_ingame": 7,
-   "set_price_online": 7,
+   "set_price_ingame": 5,
+   "set_price_online": 5,
    "parts_sum_ingame": 10,
    "parts_sum_online": 10,
    "missing_parts": 0,
-   "difference_ingame": 3,
-   "difference_online": 3,
-   "pct_ingame": 42.9,
-   "pct_online": 42.9,
+   "difference_ingame": 5,
+   "difference_online": 5,
+   "pct_ingame": 100.0,
+   "pct_online": 100.0,
    "parts": [
     {
      "slug": "braton_prime_barrel",
-     "ingame": 2,
-     "online": 2
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "braton_prime_blueprint",
@@ -877,8 +877,8 @@
     },
     {
      "slug": "braton_prime_receiver",
-     "ingame": 4,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "braton_prime_stock",
@@ -891,25 +891,25 @@
    "set": "Bronco Prime Set",
    "slug": "bronco_prime_set",
    "category": "weapon",
-   "set_price_ingame": 6,
-   "set_price_online": 6,
-   "parts_sum_ingame": 12,
-   "parts_sum_online": 12,
+   "set_price_ingame": 7,
+   "set_price_online": 1,
+   "parts_sum_ingame": 9,
+   "parts_sum_online": 9,
    "missing_parts": 0,
-   "difference_ingame": 6,
-   "difference_online": 6,
-   "pct_ingame": 100.0,
-   "pct_online": 100.0,
+   "difference_ingame": 2,
+   "difference_online": 8,
+   "pct_ingame": 28.6,
+   "pct_online": 800.0,
    "parts": [
     {
      "slug": "bronco_prime_barrel",
-     "ingame": 4,
-     "online": 4
+     "ingame": 2,
+     "online": 2
     },
     {
      "slug": "bronco_prime_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "bronco_prime_receiver",
@@ -924,13 +924,13 @@
    "category": "weapon",
    "set_price_ingame": 8,
    "set_price_online": 8,
-   "parts_sum_ingame": 15,
-   "parts_sum_online": 15,
+   "parts_sum_ingame": 11,
+   "parts_sum_online": 11,
    "missing_parts": 0,
-   "difference_ingame": 7,
-   "difference_online": 7,
-   "pct_ingame": 87.5,
-   "pct_online": 87.5,
+   "difference_ingame": 3,
+   "difference_online": 3,
+   "pct_ingame": 37.5,
+   "pct_online": 37.5,
    "parts": [
     {
      "slug": "burston_prime_barrel",
@@ -949,8 +949,8 @@
     },
     {
      "slug": "burston_prime_stock",
-     "ingame": 7,
-     "online": 7
+     "ingame": 3,
+     "online": 3
     }
    ]
   },
@@ -958,15 +958,15 @@
    "set": "Caliban Prime Set",
    "slug": "caliban_prime_set",
    "category": "warframe",
-   "set_price_ingame": 28,
+   "set_price_ingame": 25,
    "set_price_online": 25,
-   "parts_sum_ingame": 28,
-   "parts_sum_online": 28,
+   "parts_sum_ingame": 24,
+   "parts_sum_online": 24,
    "missing_parts": 0,
-   "difference_ingame": 0,
-   "difference_online": 3,
-   "pct_ingame": 0.0,
-   "pct_online": 12.0,
+   "difference_ingame": -1,
+   "difference_online": -1,
+   "pct_ingame": -4.0,
+   "pct_online": -4.0,
    "parts": [
     {
      "slug": "caliban_prime_blueprint",
@@ -975,13 +975,13 @@
     },
     {
      "slug": "caliban_prime_chassis_blueprint",
-     "ingame": 2,
-     "online": 2
+     "ingame": 1,
+     "online": 1
     },
     {
      "slug": "caliban_prime_neuroptics_blueprint",
-     "ingame": 11,
-     "online": 11
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "caliban_prime_systems_blueprint",
@@ -996,13 +996,13 @@
    "category": "companion",
    "set_price_ingame": 95,
    "set_price_online": 95,
-   "parts_sum_ingame": 70,
-   "parts_sum_online": 70,
+   "parts_sum_ingame": 75,
+   "parts_sum_online": 75,
    "missing_parts": 0,
-   "difference_ingame": -25,
-   "difference_online": -25,
-   "pct_ingame": -26.3,
-   "pct_online": -26.3,
+   "difference_ingame": -20,
+   "difference_online": -20,
+   "pct_ingame": -21.1,
+   "pct_online": -21.1,
    "parts": [
     {
      "slug": "carrier_prime_blueprint",
@@ -1011,18 +1011,18 @@
     },
     {
      "slug": "carrier_prime_carapace",
-     "ingame": 13,
-     "online": 13
+     "ingame": 12,
+     "online": 12
     },
     {
      "slug": "carrier_prime_cerebrum",
-     "ingame": 39,
-     "online": 39
+     "ingame": 46,
+     "online": 46
     },
     {
      "slug": "carrier_prime_systems",
-     "ingame": 8,
-     "online": 8
+     "ingame": 7,
+     "online": 7
     }
    ]
   },
@@ -1030,15 +1030,15 @@
    "set": "Cedo Prime Set",
    "slug": "cedo_prime_set",
    "category": "weapon",
-   "set_price_ingame": 12,
-   "set_price_online": 12,
+   "set_price_ingame": 15,
+   "set_price_online": 14,
    "parts_sum_ingame": 20,
    "parts_sum_online": 20,
    "missing_parts": 0,
-   "difference_ingame": 8,
-   "difference_online": 8,
-   "pct_ingame": 66.7,
-   "pct_online": 66.7,
+   "difference_ingame": 5,
+   "difference_online": 6,
+   "pct_ingame": 33.3,
+   "pct_online": 42.9,
    "parts": [
     {
      "slug": "cedo_prime_barrel",
@@ -1047,8 +1047,8 @@
     },
     {
      "slug": "cedo_prime_blueprint",
-     "ingame": 7,
-     "online": 7
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "cedo_prime_receiver",
@@ -1057,8 +1057,8 @@
     },
     {
      "slug": "cedo_prime_stock",
-     "ingame": 7,
-     "online": 7
+     "ingame": 5,
+     "online": 5
     }
    ]
   },
@@ -1066,15 +1066,15 @@
    "set": "Cernos Prime Set",
    "slug": "cernos_prime_set",
    "category": "weapon",
-   "set_price_ingame": 60,
-   "set_price_online": 60,
-   "parts_sum_ingame": 54,
-   "parts_sum_online": 52,
+   "set_price_ingame": 59,
+   "set_price_online": 59,
+   "parts_sum_ingame": 52,
+   "parts_sum_online": 51,
    "missing_parts": 0,
-   "difference_ingame": -6,
+   "difference_ingame": -7,
    "difference_online": -8,
-   "pct_ingame": -10.0,
-   "pct_online": -13.3,
+   "pct_ingame": -11.9,
+   "pct_online": -13.6,
    "parts": [
     {
      "slug": "cernos_prime_blueprint",
@@ -1083,13 +1083,13 @@
     },
     {
      "slug": "cernos_prime_grip",
-     "ingame": 7,
-     "online": 7
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "cernos_prime_lower_limb",
-     "ingame": 28,
-     "online": 28
+     "ingame": 25,
+     "online": 25
     },
     {
      "slug": "cernos_prime_string",
@@ -1099,7 +1099,7 @@
     {
      "slug": "cernos_prime_upper_limb",
      "ingame": 9,
-     "online": 8
+     "online": 9
     }
    ]
   },
@@ -1109,13 +1109,13 @@
    "category": "warframe",
    "set_price_ingame": 89,
    "set_price_online": 88,
-   "parts_sum_ingame": 77,
-   "parts_sum_online": 76,
+   "parts_sum_ingame": 73,
+   "parts_sum_online": 73,
    "missing_parts": 0,
-   "difference_ingame": -12,
-   "difference_online": -12,
-   "pct_ingame": -13.5,
-   "pct_online": -13.6,
+   "difference_ingame": -16,
+   "difference_online": -15,
+   "pct_ingame": -18.0,
+   "pct_online": -17.0,
    "parts": [
     {
      "slug": "chroma_prime_blueprint",
@@ -1124,17 +1124,17 @@
     },
     {
      "slug": "chroma_prime_chassis_blueprint",
-     "ingame": 8,
-     "online": 8
+     "ingame": 6,
+     "online": 6
     },
     {
      "slug": "chroma_prime_neuroptics_blueprint",
-     "ingame": 30,
-     "online": 30
+     "ingame": 29,
+     "online": 29
     },
     {
      "slug": "chroma_prime_systems_blueprint",
-     "ingame": 30,
+     "ingame": 29,
      "online": 29
     }
    ]
@@ -1143,35 +1143,35 @@
    "set": "Citrine Prime Set",
    "slug": "citrine_prime_set",
    "category": "warframe",
-   "set_price_ingame": 95,
-   "set_price_online": 90,
-   "parts_sum_ingame": 70,
-   "parts_sum_online": 68,
+   "set_price_ingame": 89,
+   "set_price_online": 89,
+   "parts_sum_ingame": 72,
+   "parts_sum_online": 72,
    "missing_parts": 0,
-   "difference_ingame": -25,
-   "difference_online": -22,
-   "pct_ingame": -26.3,
-   "pct_online": -24.4,
+   "difference_ingame": -17,
+   "difference_online": -17,
+   "pct_ingame": -19.1,
+   "pct_online": -19.1,
    "parts": [
     {
      "slug": "citrine_prime_blueprint",
-     "ingame": 15,
-     "online": 14
+     "ingame": 16,
+     "online": 16
     },
     {
      "slug": "citrine_prime_chassis_blueprint",
-     "ingame": 10,
+     "ingame": 9,
      "online": 9
     },
     {
      "slug": "citrine_prime_neuroptics_blueprint",
-     "ingame": 35,
-     "online": 35
+     "ingame": 38,
+     "online": 38
     },
     {
      "slug": "citrine_prime_systems_blueprint",
-     "ingame": 10,
-     "online": 10
+     "ingame": 9,
+     "online": 9
     }
    ]
   },
@@ -1181,13 +1181,13 @@
    "category": "weapon",
    "set_price_ingame": 20,
    "set_price_online": 20,
-   "parts_sum_ingame": 23,
-   "parts_sum_online": 23,
+   "parts_sum_ingame": 25,
+   "parts_sum_online": 25,
    "missing_parts": 0,
-   "difference_ingame": 3,
-   "difference_online": 3,
-   "pct_ingame": 15.0,
-   "pct_online": 15.0,
+   "difference_ingame": 5,
+   "difference_online": 5,
+   "pct_ingame": 25.0,
+   "pct_online": 25.0,
    "parts": [
     {
      "slug": "cobra_and_crane_prime_blade",
@@ -1196,13 +1196,13 @@
     },
     {
      "slug": "cobra_and_crane_prime_blueprint",
-     "ingame": 4,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "cobra_and_crane_prime_guard",
-     "ingame": 10,
-     "online": 10
+     "ingame": 13,
+     "online": 13
     },
     {
      "slug": "cobra_and_crane_prime_hilt",
@@ -1215,20 +1215,20 @@
    "set": "Corinth Prime Set",
    "slug": "corinth_prime_set",
    "category": "weapon",
-   "set_price_ingame": 69,
-   "set_price_online": 69,
-   "parts_sum_ingame": 60,
-   "parts_sum_online": 60,
+   "set_price_ingame": 68,
+   "set_price_online": 68,
+   "parts_sum_ingame": 59,
+   "parts_sum_online": 59,
    "missing_parts": 0,
    "difference_ingame": -9,
    "difference_online": -9,
-   "pct_ingame": -13.0,
-   "pct_online": -13.0,
+   "pct_ingame": -13.2,
+   "pct_online": -13.2,
    "parts": [
     {
      "slug": "corinth_prime_barrel",
-     "ingame": 37,
-     "online": 37
+     "ingame": 38,
+     "online": 38
     },
     {
      "slug": "corinth_prime_blueprint",
@@ -1237,13 +1237,13 @@
     },
     {
      "slug": "corinth_prime_receiver",
-     "ingame": 4,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "corinth_prime_stock",
-     "ingame": 15,
-     "online": 15
+     "ingame": 14,
+     "online": 14
     }
    ]
   },
@@ -1251,30 +1251,30 @@
    "set": "Corufell Prime Set",
    "slug": "corufell_prime_set",
    "category": "weapon",
-   "set_price_ingame": 64,
-   "set_price_online": 57,
-   "parts_sum_ingame": 45,
-   "parts_sum_online": 44,
+   "set_price_ingame": 55,
+   "set_price_online": 55,
+   "parts_sum_ingame": 43,
+   "parts_sum_online": 42,
    "missing_parts": 0,
-   "difference_ingame": -19,
+   "difference_ingame": -12,
    "difference_online": -13,
-   "pct_ingame": -29.7,
-   "pct_online": -22.8,
+   "pct_ingame": -21.8,
+   "pct_online": -23.6,
    "parts": [
     {
      "slug": "corufell_prime_blueprint",
      "ingame": 7,
-     "online": 7
+     "online": 6
     },
     {
      "slug": "corufell_prime_handle",
-     "ingame": 7,
+     "ingame": 6,
      "online": 6
     },
     {
      "slug": "corufell_prime_receiver",
-     "ingame": 23,
-     "online": 23
+     "ingame": 22,
+     "online": 22
     },
     {
      "slug": "corufell_prime_stock",
@@ -1287,30 +1287,30 @@
    "set": "Corvas Prime Set",
    "slug": "corvas_prime_set",
    "category": "weapon",
-   "set_price_ingame": 50,
-   "set_price_online": 50,
-   "parts_sum_ingame": 40,
-   "parts_sum_online": 40,
+   "set_price_ingame": 48,
+   "set_price_online": 45,
+   "parts_sum_ingame": 38,
+   "parts_sum_online": 38,
    "missing_parts": 0,
    "difference_ingame": -10,
-   "difference_online": -10,
-   "pct_ingame": -20.0,
-   "pct_online": -20.0,
+   "difference_online": -7,
+   "pct_ingame": -20.8,
+   "pct_online": -15.6,
    "parts": [
     {
      "slug": "corvas_prime_barrel",
-     "ingame": 22,
-     "online": 22
+     "ingame": 24,
+     "online": 24
     },
     {
      "slug": "corvas_prime_blueprint",
-     "ingame": 6,
-     "online": 6
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "corvas_prime_receiver",
-     "ingame": 7,
-     "online": 7
+     "ingame": 6,
+     "online": 6
     },
     {
      "slug": "corvas_prime_stock",
@@ -1323,15 +1323,15 @@
    "set": "Daikyu Prime Set",
    "slug": "daikyu_prime_set",
    "category": "weapon",
-   "set_price_ingame": 14,
-   "set_price_online": 14,
-   "parts_sum_ingame": 19,
-   "parts_sum_online": 19,
+   "set_price_ingame": 17,
+   "set_price_online": 17,
+   "parts_sum_ingame": 17,
+   "parts_sum_online": 17,
    "missing_parts": 0,
-   "difference_ingame": 5,
-   "difference_online": 5,
-   "pct_ingame": 35.7,
-   "pct_online": 35.7,
+   "difference_ingame": 0,
+   "difference_online": 0,
+   "pct_ingame": 0.0,
+   "pct_online": 0.0,
    "parts": [
     {
      "slug": "daikyu_prime_blueprint",
@@ -1345,13 +1345,13 @@
     },
     {
      "slug": "daikyu_prime_lower_limb",
-     "ingame": 4,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "daikyu_prime_string",
-     "ingame": 4,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "daikyu_prime_upper_limb",
@@ -1366,18 +1366,18 @@
    "category": "weapon",
    "set_price_ingame": 34,
    "set_price_online": 34,
-   "parts_sum_ingame": 33,
-   "parts_sum_online": 33,
+   "parts_sum_ingame": 31,
+   "parts_sum_online": 31,
    "missing_parts": 0,
-   "difference_ingame": -1,
-   "difference_online": -1,
-   "pct_ingame": -2.9,
-   "pct_online": -2.9,
+   "difference_ingame": -3,
+   "difference_online": -3,
+   "pct_ingame": -8.8,
+   "pct_online": -8.8,
    "parts": [
     {
      "slug": "dakra_prime_blade",
-     "ingame": 17,
-     "online": 17
+     "ingame": 15,
+     "online": 15
     },
     {
      "slug": "dakra_prime_blueprint",
@@ -1395,30 +1395,30 @@
    "set": "Destreza Prime Set",
    "slug": "destreza_prime_set",
    "category": "weapon",
-   "set_price_ingame": 99,
-   "set_price_online": 99,
-   "parts_sum_ingame": 89,
-   "parts_sum_online": 89,
+   "set_price_ingame": 105,
+   "set_price_online": 105,
+   "parts_sum_ingame": 80,
+   "parts_sum_online": 79,
    "missing_parts": 0,
-   "difference_ingame": -10,
-   "difference_online": -10,
-   "pct_ingame": -10.1,
-   "pct_online": -10.1,
+   "difference_ingame": -25,
+   "difference_online": -26,
+   "pct_ingame": -23.8,
+   "pct_online": -24.8,
    "parts": [
     {
      "slug": "destreza_prime_blade",
-     "ingame": 68,
-     "online": 68
+     "ingame": 60,
+     "online": 60
     },
     {
      "slug": "destreza_prime_blueprint",
-     "ingame": 6,
+     "ingame": 7,
      "online": 6
     },
     {
      "slug": "destreza_prime_handle",
-     "ingame": 15,
-     "online": 15
+     "ingame": 13,
+     "online": 13
     }
    ]
   },
@@ -1426,35 +1426,35 @@
    "set": "Dethcube Prime Set",
    "slug": "dethcube_prime_set",
    "category": "companion",
-   "set_price_ingame": 75,
-   "set_price_online": 75,
-   "parts_sum_ingame": 72,
-   "parts_sum_online": 72,
+   "set_price_ingame": 74,
+   "set_price_online": 74,
+   "parts_sum_ingame": 60,
+   "parts_sum_online": 60,
    "missing_parts": 0,
-   "difference_ingame": -3,
-   "difference_online": -3,
-   "pct_ingame": -4.0,
-   "pct_online": -4.0,
+   "difference_ingame": -14,
+   "difference_online": -14,
+   "pct_ingame": -18.9,
+   "pct_online": -18.9,
    "parts": [
     {
      "slug": "dethcube_prime_blueprint",
-     "ingame": 24,
-     "online": 24
+     "ingame": 20,
+     "online": 20
     },
     {
      "slug": "dethcube_prime_carapace",
-     "ingame": 5,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "dethcube_prime_cerebrum",
-     "ingame": 35,
-     "online": 35
+     "ingame": 30,
+     "online": 30
     },
     {
      "slug": "dethcube_prime_systems",
-     "ingame": 8,
-     "online": 8
+     "ingame": 6,
+     "online": 6
     }
    ]
   },
@@ -1464,28 +1464,28 @@
    "category": "weapon",
    "set_price_ingame": 90,
    "set_price_online": 90,
-   "parts_sum_ingame": 42,
-   "parts_sum_online": 42,
+   "parts_sum_ingame": 43,
+   "parts_sum_online": 43,
    "missing_parts": 0,
-   "difference_ingame": -48,
-   "difference_online": -48,
-   "pct_ingame": -53.3,
-   "pct_online": -53.3,
+   "difference_ingame": -47,
+   "difference_online": -47,
+   "pct_ingame": -52.2,
+   "pct_online": -52.2,
    "parts": [
     {
      "slug": "dual_kamas_prime_blade",
-     "ingame": 30,
-     "online": 30
+     "ingame": 31,
+     "online": 31
     },
     {
      "slug": "dual_kamas_prime_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 6,
+     "online": 6
     },
     {
      "slug": "dual_kamas_prime_handle",
-     "ingame": 7,
-     "online": 7
+     "ingame": 6,
+     "online": 6
     }
    ]
   },
@@ -1493,30 +1493,30 @@
    "set": "Dual Keres Prime Set",
    "slug": "dual_keres_prime_set",
    "category": "weapon",
-   "set_price_ingame": 58,
-   "set_price_online": 58,
-   "parts_sum_ingame": 29,
+   "set_price_ingame": 60,
+   "set_price_online": 60,
+   "parts_sum_ingame": 28,
    "parts_sum_online": 28,
    "missing_parts": 0,
-   "difference_ingame": -29,
-   "difference_online": -30,
-   "pct_ingame": -50.0,
-   "pct_online": -51.7,
+   "difference_ingame": -32,
+   "difference_online": -32,
+   "pct_ingame": -53.3,
+   "pct_online": -53.3,
    "parts": [
     {
      "slug": "dual_keres_prime_blade",
-     "ingame": 7,
+     "ingame": 6,
      "online": 6
     },
     {
      "slug": "dual_keres_prime_blueprint",
-     "ingame": 13,
-     "online": 13
+     "ingame": 15,
+     "online": 15
     },
     {
      "slug": "dual_keres_prime_handle",
-     "ingame": 9,
-     "online": 9
+     "ingame": 7,
+     "online": 7
     }
    ]
   },
@@ -1524,25 +1524,25 @@
    "set": "Dual Zoren Prime Set",
    "slug": "dual_zoren_prime_set",
    "category": "weapon",
-   "set_price_ingame": 25,
-   "set_price_online": 25,
-   "parts_sum_ingame": 15,
-   "parts_sum_online": 13,
+   "set_price_ingame": 24,
+   "set_price_online": 24,
+   "parts_sum_ingame": 14,
+   "parts_sum_online": 14,
    "missing_parts": 0,
    "difference_ingame": -10,
-   "difference_online": -12,
-   "pct_ingame": -40.0,
-   "pct_online": -48.0,
+   "difference_online": -10,
+   "pct_ingame": -41.7,
+   "pct_online": -41.7,
    "parts": [
     {
      "slug": "dual_zoren_prime_blade",
      "ingame": 10,
-     "online": 8
+     "online": 10
     },
     {
      "slug": "dual_zoren_prime_blueprint",
-     "ingame": 3,
-     "online": 3
+     "ingame": 2,
+     "online": 2
     },
     {
      "slug": "dual_zoren_prime_handle",
@@ -1555,14 +1555,14 @@
    "set": "Ember Prime Set",
    "slug": "ember_prime_set",
    "category": "warframe",
-   "set_price_ingame": 64,
-   "set_price_online": 64,
-   "parts_sum_ingame": 54,
-   "parts_sum_online": 48,
+   "set_price_ingame": 60,
+   "set_price_online": 60,
+   "parts_sum_ingame": 50,
+   "parts_sum_online": 45,
    "missing_parts": 0,
    "difference_ingame": -10,
-   "difference_online": -16,
-   "pct_ingame": -15.6,
+   "difference_online": -15,
+   "pct_ingame": -16.7,
    "pct_online": -25.0,
    "parts": [
     {
@@ -1572,18 +1572,18 @@
     },
     {
      "slug": "ember_prime_chassis_blueprint",
-     "ingame": 10,
-     "online": 9
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "ember_prime_neuroptics_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "ember_prime_systems_blueprint",
-     "ingame": 10,
-     "online": 10
+     "ingame": 9,
+     "online": 9
     }
    ]
   },
@@ -1591,25 +1591,25 @@
    "set": "Epitaph Prime Set",
    "slug": "epitaph_prime_set",
    "category": "weapon",
-   "set_price_ingame": 15,
-   "set_price_online": 15,
-   "parts_sum_ingame": 20,
-   "parts_sum_online": 20,
+   "set_price_ingame": 18,
+   "set_price_online": 18,
+   "parts_sum_ingame": 18,
+   "parts_sum_online": 18,
    "missing_parts": 0,
-   "difference_ingame": 5,
-   "difference_online": 5,
-   "pct_ingame": 33.3,
-   "pct_online": 33.3,
+   "difference_ingame": 0,
+   "difference_online": 0,
+   "pct_ingame": 0.0,
+   "pct_online": 0.0,
    "parts": [
     {
      "slug": "epitaph_prime_barrel",
-     "ingame": 4,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "epitaph_prime_blueprint",
-     "ingame": 6,
-     "online": 6
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "epitaph_prime_receiver",
@@ -1624,18 +1624,18 @@
    "category": "warframe",
    "set_price_ingame": 63,
    "set_price_online": 63,
-   "parts_sum_ingame": 53,
-   "parts_sum_online": 52,
+   "parts_sum_ingame": 54,
+   "parts_sum_online": 49,
    "missing_parts": 0,
-   "difference_ingame": -10,
-   "difference_online": -11,
-   "pct_ingame": -15.9,
-   "pct_online": -17.5,
+   "difference_ingame": -9,
+   "difference_online": -14,
+   "pct_ingame": -14.3,
+   "pct_online": -22.2,
    "parts": [
     {
      "slug": "equinox_prime_blueprint",
-     "ingame": 13,
-     "online": 13
+     "ingame": 15,
+     "online": 10
     },
     {
      "slug": "equinox_prime_chassis_blueprint",
@@ -1644,13 +1644,13 @@
     },
     {
      "slug": "equinox_prime_neuroptics_blueprint",
-     "ingame": 6,
-     "online": 5
+     "ingame": 7,
+     "online": 7
     },
     {
      "slug": "equinox_prime_systems_blueprint",
-     "ingame": 30,
-     "online": 30
+     "ingame": 28,
+     "online": 28
     }
    ]
   },
@@ -1658,30 +1658,30 @@
    "set": "Euphona Prime Set",
    "slug": "euphona_prime_set",
    "category": "weapon",
-   "set_price_ingame": 28,
-   "set_price_online": 28,
-   "parts_sum_ingame": 37,
-   "parts_sum_online": 37,
+   "set_price_ingame": 30,
+   "set_price_online": 30,
+   "parts_sum_ingame": 34,
+   "parts_sum_online": 34,
    "missing_parts": 0,
-   "difference_ingame": 9,
-   "difference_online": 9,
-   "pct_ingame": 32.1,
-   "pct_online": 32.1,
+   "difference_ingame": 4,
+   "difference_online": 4,
+   "pct_ingame": 13.3,
+   "pct_online": 13.3,
    "parts": [
     {
      "slug": "euphona_prime_barrel",
+     "ingame": 5,
+     "online": 5
+    },
+    {
+     "slug": "euphona_prime_blueprint",
      "ingame": 4,
      "online": 4
     },
     {
-     "slug": "euphona_prime_blueprint",
-     "ingame": 3,
-     "online": 3
-    },
-    {
      "slug": "euphona_prime_receiver",
-     "ingame": 30,
-     "online": 30
+     "ingame": 25,
+     "online": 25
     }
    ]
   },
@@ -1689,15 +1689,15 @@
    "set": "Fang Prime Set",
    "slug": "fang_prime_set",
    "category": "weapon",
-   "set_price_ingame": 5,
-   "set_price_online": 5,
+   "set_price_ingame": 10,
+   "set_price_online": 10,
    "parts_sum_ingame": 8,
    "parts_sum_online": 8,
    "missing_parts": 0,
-   "difference_ingame": 3,
-   "difference_online": 3,
-   "pct_ingame": 60.0,
-   "pct_online": 60.0,
+   "difference_ingame": -2,
+   "difference_online": -2,
+   "pct_ingame": -20.0,
+   "pct_online": -20.0,
    "parts": [
     {
      "slug": "fang_prime_blade",
@@ -1720,30 +1720,30 @@
    "set": "Fragor Prime Set",
    "slug": "fragor_prime_set",
    "category": "weapon",
-   "set_price_ingame": 38,
-   "set_price_online": 38,
-   "parts_sum_ingame": 28,
-   "parts_sum_online": 28,
+   "set_price_ingame": 35,
+   "set_price_online": 25,
+   "parts_sum_ingame": 32,
+   "parts_sum_online": 32,
    "missing_parts": 0,
-   "difference_ingame": -10,
-   "difference_online": -10,
-   "pct_ingame": -26.3,
-   "pct_online": -26.3,
+   "difference_ingame": -3,
+   "difference_online": 7,
+   "pct_ingame": -8.6,
+   "pct_online": 28.0,
    "parts": [
     {
      "slug": "fragor_prime_blueprint",
-     "ingame": 10,
-     "online": 10
+     "ingame": 13,
+     "online": 13
     },
     {
      "slug": "fragor_prime_handle",
-     "ingame": 9,
-     "online": 9
+     "ingame": 13,
+     "online": 13
     },
     {
      "slug": "fragor_prime_head",
-     "ingame": 9,
-     "online": 9
+     "ingame": 6,
+     "online": 6
     }
    ]
   },
@@ -1751,20 +1751,20 @@
    "set": "Frost Prime Set",
    "slug": "frost_prime_set",
    "category": "warframe",
-   "set_price_ingame": 75,
-   "set_price_online": 75,
-   "parts_sum_ingame": 73,
-   "parts_sum_online": 35,
+   "set_price_ingame": 74,
+   "set_price_online": 74,
+   "parts_sum_ingame": 75,
+   "parts_sum_online": 75,
    "missing_parts": 0,
-   "difference_ingame": -2,
-   "difference_online": -40,
-   "pct_ingame": -2.7,
-   "pct_online": -53.3,
+   "difference_ingame": 1,
+   "difference_online": 1,
+   "pct_ingame": 1.4,
+   "pct_online": 1.4,
    "parts": [
     {
      "slug": "frost_prime_blueprint",
-     "ingame": 39,
-     "online": 1
+     "ingame": 40,
+     "online": 40
     },
     {
      "slug": "frost_prime_chassis_blueprint",
@@ -1778,8 +1778,8 @@
     },
     {
      "slug": "frost_prime_systems_blueprint",
-     "ingame": 12,
-     "online": 12
+     "ingame": 13,
+     "online": 13
     }
    ]
   },
@@ -1787,25 +1787,25 @@
    "set": "Fulmin Prime Set",
    "slug": "fulmin_prime_set",
    "category": "weapon",
-   "set_price_ingame": 45,
-   "set_price_online": 40,
-   "parts_sum_ingame": 38,
-   "parts_sum_online": 38,
+   "set_price_ingame": 35,
+   "set_price_online": 35,
+   "parts_sum_ingame": 36,
+   "parts_sum_online": 36,
    "missing_parts": 0,
-   "difference_ingame": -7,
-   "difference_online": -2,
-   "pct_ingame": -15.6,
-   "pct_online": -5.0,
+   "difference_ingame": 1,
+   "difference_online": 1,
+   "pct_ingame": 2.9,
+   "pct_online": 2.9,
    "parts": [
     {
      "slug": "fulmin_prime_barrel",
-     "ingame": 4,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "fulmin_prime_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "fulmin_prime_receiver",
@@ -1823,30 +1823,30 @@
    "set": "Galatine Prime Set",
    "slug": "galatine_prime_set",
    "category": "weapon",
-   "set_price_ingame": 58,
-   "set_price_online": 58,
-   "parts_sum_ingame": 53,
-   "parts_sum_online": 53,
+   "set_price_ingame": 55,
+   "set_price_online": 55,
+   "parts_sum_ingame": 46,
+   "parts_sum_online": 46,
    "missing_parts": 0,
-   "difference_ingame": -5,
-   "difference_online": -5,
-   "pct_ingame": -8.6,
-   "pct_online": -8.6,
+   "difference_ingame": -9,
+   "difference_online": -9,
+   "pct_ingame": -16.4,
+   "pct_online": -16.4,
    "parts": [
     {
      "slug": "galatine_prime_blade",
-     "ingame": 7,
-     "online": 7
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "galatine_prime_blueprint",
-     "ingame": 40,
-     "online": 40
+     "ingame": 36,
+     "online": 36
     },
     {
      "slug": "galatine_prime_handle",
-     "ingame": 6,
-     "online": 6
+     "ingame": 5,
+     "online": 5
     }
    ]
   },
@@ -1854,29 +1854,29 @@
    "set": "Gara Prime Set",
    "slug": "gara_prime_set",
    "category": "warframe",
-   "set_price_ingame": 65,
-   "set_price_online": 65,
-   "parts_sum_ingame": 52,
-   "parts_sum_online": 50,
+   "set_price_ingame": 66,
+   "set_price_online": 66,
+   "parts_sum_ingame": 56,
+   "parts_sum_online": 55,
    "missing_parts": 0,
-   "difference_ingame": -13,
-   "difference_online": -15,
-   "pct_ingame": -20.0,
-   "pct_online": -23.1,
+   "difference_ingame": -10,
+   "difference_online": -11,
+   "pct_ingame": -15.2,
+   "pct_online": -16.7,
    "parts": [
     {
      "slug": "gara_prime_blueprint",
-     "ingame": 29,
-     "online": 29
+     "ingame": 30,
+     "online": 30
     },
     {
      "slug": "gara_prime_chassis_blueprint",
-     "ingame": 10,
-     "online": 10
+     "ingame": 14,
+     "online": 14
     },
     {
      "slug": "gara_prime_neuroptics_blueprint",
-     "ingame": 8,
+     "ingame": 7,
      "online": 6
     },
     {
@@ -1890,15 +1890,15 @@
    "set": "Garuda Prime Set",
    "slug": "garuda_prime_set",
    "category": "warframe",
-   "set_price_ingame": 78,
-   "set_price_online": 78,
+   "set_price_ingame": 79,
+   "set_price_online": 79,
    "parts_sum_ingame": 74,
-   "parts_sum_online": 72,
+   "parts_sum_online": 74,
    "missing_parts": 0,
-   "difference_ingame": -4,
-   "difference_online": -6,
-   "pct_ingame": -5.1,
-   "pct_online": -7.7,
+   "difference_ingame": -5,
+   "difference_online": -5,
+   "pct_ingame": -6.3,
+   "pct_online": -6.3,
    "parts": [
     {
      "slug": "garuda_prime_blueprint",
@@ -1907,18 +1907,18 @@
     },
     {
      "slug": "garuda_prime_chassis_blueprint",
-     "ingame": 6,
-     "online": 6
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "garuda_prime_neuroptics_blueprint",
-     "ingame": 29,
-     "online": 29
+     "ingame": 28,
+     "online": 28
     },
     {
      "slug": "garuda_prime_systems_blueprint",
-     "ingame": 34,
-     "online": 32
+     "ingame": 33,
+     "online": 33
     }
    ]
   },
@@ -1926,35 +1926,35 @@
    "set": "Gauss Prime Set",
    "slug": "gauss_prime_set",
    "category": "warframe",
-   "set_price_ingame": 50,
-   "set_price_online": 49,
-   "parts_sum_ingame": 45,
+   "set_price_ingame": 40,
+   "set_price_online": 40,
+   "parts_sum_ingame": 43,
    "parts_sum_online": 43,
    "missing_parts": 0,
-   "difference_ingame": -5,
-   "difference_online": -6,
-   "pct_ingame": -10.0,
-   "pct_online": -12.2,
+   "difference_ingame": 3,
+   "difference_online": 3,
+   "pct_ingame": 7.5,
+   "pct_online": 7.5,
    "parts": [
     {
      "slug": "gauss_prime_blueprint",
-     "ingame": 5,
+     "ingame": 4,
      "online": 4
     },
     {
      "slug": "gauss_prime_chassis_blueprint",
-     "ingame": 5,
+     "ingame": 4,
      "online": 4
     },
     {
      "slug": "gauss_prime_neuroptics_blueprint",
-     "ingame": 8,
-     "online": 8
+     "ingame": 10,
+     "online": 10
     },
     {
      "slug": "gauss_prime_systems_blueprint",
-     "ingame": 27,
-     "online": 27
+     "ingame": 25,
+     "online": 25
     }
    ]
   },
@@ -1962,30 +1962,30 @@
    "set": "Glaive Prime Set",
    "slug": "glaive_prime_set",
    "category": "weapon",
-   "set_price_ingame": 68,
-   "set_price_online": 68,
-   "parts_sum_ingame": 41,
-   "parts_sum_online": 39,
+   "set_price_ingame": 70,
+   "set_price_online": 70,
+   "parts_sum_ingame": 42,
+   "parts_sum_online": 42,
    "missing_parts": 0,
-   "difference_ingame": -27,
-   "difference_online": -29,
-   "pct_ingame": -39.7,
-   "pct_online": -42.6,
+   "difference_ingame": -28,
+   "difference_online": -28,
+   "pct_ingame": -40.0,
+   "pct_online": -40.0,
    "parts": [
     {
      "slug": "glaive_prime_blade",
-     "ingame": 15,
-     "online": 15
+     "ingame": 18,
+     "online": 18
     },
     {
      "slug": "glaive_prime_blueprint",
-     "ingame": 17,
-     "online": 15
+     "ingame": 19,
+     "online": 19
     },
     {
      "slug": "glaive_prime_disc",
-     "ingame": 9,
-     "online": 9
+     "ingame": 5,
+     "online": 5
     }
    ]
   },
@@ -1993,30 +1993,30 @@
    "set": "Gram Prime Set",
    "slug": "gram_prime_set",
    "category": "weapon",
-   "set_price_ingame": 39,
-   "set_price_online": 39,
+   "set_price_ingame": 35,
+   "set_price_online": 35,
    "parts_sum_ingame": 34,
    "parts_sum_online": 34,
    "missing_parts": 0,
-   "difference_ingame": -5,
-   "difference_online": -5,
-   "pct_ingame": -12.8,
-   "pct_online": -12.8,
+   "difference_ingame": -1,
+   "difference_online": -1,
+   "pct_ingame": -2.9,
+   "pct_online": -2.9,
    "parts": [
     {
      "slug": "gram_prime_blade",
-     "ingame": 5,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "gram_prime_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 7,
+     "online": 7
     },
     {
      "slug": "gram_prime_handle",
-     "ingame": 20,
-     "online": 20
+     "ingame": 23,
+     "online": 23
     }
    ]
   },
@@ -2026,23 +2026,23 @@
    "category": "warframe",
    "set_price_ingame": 65,
    "set_price_online": 64,
-   "parts_sum_ingame": 53,
-   "parts_sum_online": 52,
+   "parts_sum_ingame": 60,
+   "parts_sum_online": 60,
    "missing_parts": 0,
-   "difference_ingame": -12,
-   "difference_online": -12,
-   "pct_ingame": -18.5,
-   "pct_online": -18.8,
+   "difference_ingame": -5,
+   "difference_online": -4,
+   "pct_ingame": -7.7,
+   "pct_online": -6.2,
    "parts": [
     {
      "slug": "grendel_prime_blueprint",
-     "ingame": 14,
-     "online": 14
+     "ingame": 15,
+     "online": 15
     },
     {
      "slug": "grendel_prime_chassis_blueprint",
      "ingame": 5,
-     "online": 4
+     "online": 5
     },
     {
      "slug": "grendel_prime_neuroptics_blueprint",
@@ -2051,8 +2051,8 @@
     },
     {
      "slug": "grendel_prime_systems_blueprint",
-     "ingame": 28,
-     "online": 28
+     "ingame": 34,
+     "online": 34
     }
    ]
   },
@@ -2060,25 +2060,25 @@
    "set": "Guandao Prime Set",
    "slug": "guandao_prime_set",
    "category": "weapon",
-   "set_price_ingame": 55,
-   "set_price_online": 55,
-   "parts_sum_ingame": 31,
-   "parts_sum_online": 31,
+   "set_price_ingame": 50,
+   "set_price_online": 50,
+   "parts_sum_ingame": 32,
+   "parts_sum_online": 32,
    "missing_parts": 0,
-   "difference_ingame": -24,
-   "difference_online": -24,
-   "pct_ingame": -43.6,
-   "pct_online": -43.6,
+   "difference_ingame": -18,
+   "difference_online": -18,
+   "pct_ingame": -36.0,
+   "pct_online": -36.0,
    "parts": [
     {
      "slug": "guandao_prime_blade",
-     "ingame": 7,
-     "online": 7
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "guandao_prime_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "guandao_prime_handle",
@@ -2091,30 +2091,30 @@
    "set": "Gunsen Prime Set",
    "slug": "gunsen_prime_set",
    "category": "weapon",
-   "set_price_ingame": 50,
-   "set_price_online": 50,
-   "parts_sum_ingame": 26,
-   "parts_sum_online": 25,
+   "set_price_ingame": 53,
+   "set_price_online": 53,
+   "parts_sum_ingame": 22,
+   "parts_sum_online": 22,
    "missing_parts": 0,
-   "difference_ingame": -24,
-   "difference_online": -25,
-   "pct_ingame": -48.0,
-   "pct_online": -50.0,
+   "difference_ingame": -31,
+   "difference_online": -31,
+   "pct_ingame": -58.5,
+   "pct_online": -58.5,
    "parts": [
     {
      "slug": "gunsen_prime_blade",
-     "ingame": 15,
-     "online": 15
+     "ingame": 13,
+     "online": 13
     },
     {
      "slug": "gunsen_prime_blueprint",
-     "ingame": 4,
-     "online": 4
+     "ingame": 2,
+     "online": 2
     },
     {
      "slug": "gunsen_prime_handle",
      "ingame": 7,
-     "online": 6
+     "online": 7
     }
    ]
   },
@@ -2122,15 +2122,15 @@
    "set": "Gyre Prime Set",
    "slug": "gyre_prime_set",
    "category": "warframe",
-   "set_price_ingame": 24,
+   "set_price_ingame": 20,
    "set_price_online": 20,
-   "parts_sum_ingame": 21,
-   "parts_sum_online": 20,
+   "parts_sum_ingame": 20,
+   "parts_sum_online": 17,
    "missing_parts": 0,
-   "difference_ingame": -3,
-   "difference_online": 0,
-   "pct_ingame": -12.5,
-   "pct_online": 0.0,
+   "difference_ingame": 0,
+   "difference_online": -3,
+   "pct_ingame": 0.0,
+   "pct_online": -15.0,
    "parts": [
     {
      "slug": "gyre_prime_blueprint",
@@ -2144,13 +2144,13 @@
     },
     {
      "slug": "gyre_prime_neuroptics_blueprint",
-     "ingame": 8,
-     "online": 8
+     "ingame": 9,
+     "online": 7
     },
     {
      "slug": "gyre_prime_systems_blueprint",
-     "ingame": 4,
-     "online": 4
+     "ingame": 2,
+     "online": 2
     }
    ]
   },
@@ -2158,15 +2158,15 @@
    "set": "Harrow Prime Set",
    "slug": "harrow_prime_set",
    "category": "warframe",
-   "set_price_ingame": 62,
-   "set_price_online": 62,
-   "parts_sum_ingame": 56,
-   "parts_sum_online": 50,
+   "set_price_ingame": 60,
+   "set_price_online": 60,
+   "parts_sum_ingame": 55,
+   "parts_sum_online": 55,
    "missing_parts": 0,
-   "difference_ingame": -6,
-   "difference_online": -12,
-   "pct_ingame": -9.7,
-   "pct_online": -19.4,
+   "difference_ingame": -5,
+   "difference_online": -5,
+   "pct_ingame": -8.3,
+   "pct_online": -8.3,
    "parts": [
     {
      "slug": "harrow_prime_blueprint",
@@ -2181,12 +2181,12 @@
     {
      "slug": "harrow_prime_neuroptics_blueprint",
      "ingame": 8,
-     "online": 7
+     "online": 8
     },
     {
      "slug": "harrow_prime_systems_blueprint",
-     "ingame": 35,
-     "online": 30
+     "ingame": 34,
+     "online": 34
     }
    ]
   },
@@ -2194,20 +2194,20 @@
    "set": "Helios Prime Set",
    "slug": "helios_prime_set",
    "category": "companion",
-   "set_price_ingame": 42,
-   "set_price_online": 42,
-   "parts_sum_ingame": 38,
-   "parts_sum_online": 38,
+   "set_price_ingame": 40,
+   "set_price_online": 40,
+   "parts_sum_ingame": 37,
+   "parts_sum_online": 37,
    "missing_parts": 0,
-   "difference_ingame": -4,
-   "difference_online": -4,
-   "pct_ingame": -9.5,
-   "pct_online": -9.5,
+   "difference_ingame": -3,
+   "difference_online": -3,
+   "pct_ingame": -7.5,
+   "pct_online": -7.5,
    "parts": [
     {
      "slug": "helios_prime_blueprint",
-     "ingame": 6,
-     "online": 6
+     "ingame": 7,
+     "online": 7
     },
     {
      "slug": "helios_prime_carapace",
@@ -2216,8 +2216,8 @@
     },
     {
      "slug": "helios_prime_cerebrum",
-     "ingame": 20,
-     "online": 20
+     "ingame": 18,
+     "online": 18
     },
     {
      "slug": "helios_prime_systems",
@@ -2230,30 +2230,30 @@
    "set": "Hikou Prime Set",
    "slug": "hikou_prime_set",
    "category": "weapon",
-   "set_price_ingame": 38,
-   "set_price_online": 38,
-   "parts_sum_ingame": 35,
-   "parts_sum_online": 25,
+   "set_price_ingame": 35,
+   "set_price_online": 35,
+   "parts_sum_ingame": 20,
+   "parts_sum_online": 20,
    "missing_parts": 0,
-   "difference_ingame": -3,
-   "difference_online": -13,
-   "pct_ingame": -7.9,
-   "pct_online": -34.2,
+   "difference_ingame": -15,
+   "difference_online": -15,
+   "pct_ingame": -42.9,
+   "pct_online": -42.9,
    "parts": [
     {
      "slug": "hikou_prime_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "hikou_prime_pouch",
-     "ingame": 20,
-     "online": 10
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "hikou_prime_stars",
-     "ingame": 10,
-     "online": 10
+     "ingame": 7,
+     "online": 7
     }
    ]
   },
@@ -2261,25 +2261,25 @@
    "set": "Hildryn Prime Set",
    "slug": "hildryn_prime_set",
    "category": "warframe",
-   "set_price_ingame": 63,
-   "set_price_online": 63,
-   "parts_sum_ingame": 56,
+   "set_price_ingame": 60,
+   "set_price_online": 60,
+   "parts_sum_ingame": 55,
    "parts_sum_online": 55,
    "missing_parts": 0,
-   "difference_ingame": -7,
-   "difference_online": -8,
-   "pct_ingame": -11.1,
-   "pct_online": -12.7,
+   "difference_ingame": -5,
+   "difference_online": -5,
+   "pct_ingame": -8.3,
+   "pct_online": -8.3,
    "parts": [
     {
      "slug": "hildryn_prime_blueprint",
-     "ingame": 35,
-     "online": 35
+     "ingame": 38,
+     "online": 38
     },
     {
      "slug": "hildryn_prime_chassis_blueprint",
-     "ingame": 10,
-     "online": 10
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "hildryn_prime_neuroptics_blueprint",
@@ -2288,8 +2288,8 @@
     },
     {
      "slug": "hildryn_prime_systems_blueprint",
-     "ingame": 5,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     }
    ]
   },
@@ -2297,15 +2297,15 @@
    "set": "Hydroid Prime Set",
    "slug": "hydroid_prime_set",
    "category": "warframe",
-   "set_price_ingame": 85,
-   "set_price_online": 85,
-   "parts_sum_ingame": 71,
-   "parts_sum_online": 70,
+   "set_price_ingame": 79,
+   "set_price_online": 79,
+   "parts_sum_ingame": 66,
+   "parts_sum_online": 64,
    "missing_parts": 0,
-   "difference_ingame": -14,
+   "difference_ingame": -13,
    "difference_online": -15,
    "pct_ingame": -16.5,
-   "pct_online": -17.6,
+   "pct_online": -19.0,
    "parts": [
     {
      "slug": "hydroid_prime_blueprint",
@@ -2314,18 +2314,18 @@
     },
     {
      "slug": "hydroid_prime_chassis_blueprint",
-     "ingame": 8,
-     "online": 7
+     "ingame": 6,
+     "online": 6
     },
     {
      "slug": "hydroid_prime_neuroptics_blueprint",
-     "ingame": 14,
-     "online": 14
+     "ingame": 10,
+     "online": 10
     },
     {
      "slug": "hydroid_prime_systems_blueprint",
-     "ingame": 34,
-     "online": 34
+     "ingame": 35,
+     "online": 33
     }
    ]
   },
@@ -2335,18 +2335,18 @@
    "category": "weapon",
    "set_price_ingame": 30,
    "set_price_online": 29,
-   "parts_sum_ingame": 29,
-   "parts_sum_online": 19,
+   "parts_sum_ingame": 30,
+   "parts_sum_online": 21,
    "missing_parts": 0,
-   "difference_ingame": -1,
-   "difference_online": -10,
-   "pct_ingame": -3.3,
-   "pct_online": -34.5,
+   "difference_ingame": 0,
+   "difference_online": -8,
+   "pct_ingame": 0.0,
+   "pct_online": -27.6,
    "parts": [
     {
      "slug": "hystrix_prime_barrel",
-     "ingame": 4,
-     "online": 4
+     "ingame": 6,
+     "online": 6
     },
     {
      "slug": "hystrix_prime_blueprint",
@@ -2355,7 +2355,7 @@
     },
     {
      "slug": "hystrix_prime_receiver",
-     "ingame": 20,
+     "ingame": 19,
      "online": 10
     }
    ]
@@ -2364,35 +2364,35 @@
    "set": "Inaros Prime Set",
    "slug": "inaros_prime_set",
    "category": "warframe",
-   "set_price_ingame": 60,
-   "set_price_online": 60,
-   "parts_sum_ingame": 61,
-   "parts_sum_online": 61,
+   "set_price_ingame": 68,
+   "set_price_online": 65,
+   "parts_sum_ingame": 58,
+   "parts_sum_online": 58,
    "missing_parts": 0,
-   "difference_ingame": 1,
-   "difference_online": 1,
-   "pct_ingame": 1.7,
-   "pct_online": 1.7,
+   "difference_ingame": -10,
+   "difference_online": -7,
+   "pct_ingame": -14.7,
+   "pct_online": -10.8,
    "parts": [
     {
      "slug": "inaros_prime_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 7,
+     "online": 7
     },
     {
      "slug": "inaros_prime_chassis_blueprint",
-     "ingame": 4,
-     "online": 4
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "inaros_prime_neuroptics_blueprint",
-     "ingame": 43,
-     "online": 43
+     "ingame": 39,
+     "online": 39
     },
     {
      "slug": "inaros_prime_systems_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 7,
+     "online": 7
     }
    ]
   },
@@ -2400,34 +2400,34 @@
    "set": "Ivara Prime Set",
    "slug": "ivara_prime_set",
    "category": "warframe",
-   "set_price_ingame": 59,
-   "set_price_online": 59,
-   "parts_sum_ingame": 48,
-   "parts_sum_online": 47,
+   "set_price_ingame": 60,
+   "set_price_online": 60,
+   "parts_sum_ingame": 49,
+   "parts_sum_online": 44,
    "missing_parts": 0,
    "difference_ingame": -11,
-   "difference_online": -12,
-   "pct_ingame": -18.6,
-   "pct_online": -20.3,
+   "difference_online": -16,
+   "pct_ingame": -18.3,
+   "pct_online": -26.7,
    "parts": [
     {
      "slug": "ivara_prime_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 6,
+     "online": 6
     },
     {
      "slug": "ivara_prime_chassis_blueprint",
      "ingame": 20,
-     "online": 19
+     "online": 20
     },
     {
      "slug": "ivara_prime_neuroptics_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "ivara_prime_systems_blueprint",
-     "ingame": 10,
+     "ingame": 15,
      "online": 10
     }
    ]
@@ -2436,30 +2436,30 @@
    "set": "Karyst Prime Set",
    "slug": "karyst_prime_set",
    "category": "weapon",
-   "set_price_ingame": 35,
-   "set_price_online": 35,
-   "parts_sum_ingame": 35,
-   "parts_sum_online": 35,
+   "set_price_ingame": 33,
+   "set_price_online": 33,
+   "parts_sum_ingame": 31,
+   "parts_sum_online": 31,
    "missing_parts": 0,
-   "difference_ingame": 0,
-   "difference_online": 0,
-   "pct_ingame": 0.0,
-   "pct_online": 0.0,
+   "difference_ingame": -2,
+   "difference_online": -2,
+   "pct_ingame": -6.1,
+   "pct_online": -6.1,
    "parts": [
     {
      "slug": "karyst_prime_blade",
-     "ingame": 24,
-     "online": 24
+     "ingame": 22,
+     "online": 22
     },
     {
      "slug": "karyst_prime_blueprint",
-     "ingame": 7,
-     "online": 7
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "karyst_prime_handle",
-     "ingame": 4,
-     "online": 4
+     "ingame": 5,
+     "online": 5
     }
    ]
   },
@@ -2467,30 +2467,30 @@
    "set": "Kavasa Prime Kubrow Collar Set",
    "slug": "kavasa_prime_kubrow_collar_set",
    "category": "companion",
-   "set_price_ingame": 30,
-   "set_price_online": 30,
-   "parts_sum_ingame": 30,
-   "parts_sum_online": 30,
+   "set_price_ingame": 29,
+   "set_price_online": 29,
+   "parts_sum_ingame": 40,
+   "parts_sum_online": 40,
    "missing_parts": 0,
-   "difference_ingame": 0,
-   "difference_online": 0,
-   "pct_ingame": 0.0,
-   "pct_online": 0.0,
+   "difference_ingame": 11,
+   "difference_online": 11,
+   "pct_ingame": 37.9,
+   "pct_online": 37.9,
    "parts": [
     {
      "slug": "kavasa_prime_band",
-     "ingame": 4,
-     "online": 4
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "kavasa_prime_buckle",
-     "ingame": 19,
-     "online": 19
+     "ingame": 29,
+     "online": 29
     },
     {
      "slug": "kavasa_prime_kubrow_collar_blueprint",
-     "ingame": 7,
-     "online": 7
+     "ingame": 6,
+     "online": 6
     }
    ]
   },
@@ -2498,15 +2498,15 @@
    "set": "Kestrel Prime Set",
    "slug": "kestrel_prime_set",
    "category": "weapon",
-   "set_price_ingame": 20,
-   "set_price_online": 20,
+   "set_price_ingame": 15,
+   "set_price_online": 15,
    "parts_sum_ingame": 15,
    "parts_sum_online": 15,
    "missing_parts": 0,
-   "difference_ingame": -5,
-   "difference_online": -5,
-   "pct_ingame": -25.0,
-   "pct_online": -25.0,
+   "difference_ingame": 0,
+   "difference_online": 0,
+   "pct_ingame": 0.0,
+   "pct_online": 0.0,
    "parts": [
     {
      "slug": "kestrel_prime_blade",
@@ -2531,13 +2531,13 @@
    "category": "warframe",
    "set_price_ingame": 79,
    "set_price_online": 79,
-   "parts_sum_ingame": 69,
-   "parts_sum_online": 69,
+   "parts_sum_ingame": 72,
+   "parts_sum_online": 70,
    "missing_parts": 0,
-   "difference_ingame": -10,
-   "difference_online": -10,
-   "pct_ingame": -12.7,
-   "pct_online": -12.7,
+   "difference_ingame": -7,
+   "difference_online": -9,
+   "pct_ingame": -8.9,
+   "pct_online": -11.4,
    "parts": [
     {
      "slug": "khora_prime_blueprint",
@@ -2551,8 +2551,8 @@
     },
     {
      "slug": "khora_prime_neuroptics_blueprint",
-     "ingame": 27,
-     "online": 27
+     "ingame": 30,
+     "online": 28
     },
     {
      "slug": "khora_prime_systems_blueprint",
@@ -2565,15 +2565,15 @@
    "set": "Knell Prime Set",
    "slug": "knell_prime_set",
    "category": "weapon",
-   "set_price_ingame": 40,
-   "set_price_online": 40,
+   "set_price_ingame": 39,
+   "set_price_online": 39,
    "parts_sum_ingame": 38,
    "parts_sum_online": 38,
    "missing_parts": 0,
-   "difference_ingame": -2,
-   "difference_online": -2,
-   "pct_ingame": -5.0,
-   "pct_online": -5.0,
+   "difference_ingame": -1,
+   "difference_online": -1,
+   "pct_ingame": -2.6,
+   "pct_online": -2.6,
    "parts": [
     {
      "slug": "knell_prime_barrel",
@@ -2596,20 +2596,20 @@
    "set": "Kogake Prime Set",
    "slug": "kogake_prime_set",
    "category": "weapon",
-   "set_price_ingame": 59,
-   "set_price_online": 59,
-   "parts_sum_ingame": 28,
-   "parts_sum_online": 28,
+   "set_price_ingame": 57,
+   "set_price_online": 57,
+   "parts_sum_ingame": 27,
+   "parts_sum_online": 27,
    "missing_parts": 0,
-   "difference_ingame": -31,
-   "difference_online": -31,
-   "pct_ingame": -52.5,
-   "pct_online": -52.5,
+   "difference_ingame": -30,
+   "difference_online": -30,
+   "pct_ingame": -52.6,
+   "pct_online": -52.6,
    "parts": [
     {
      "slug": "kogake_prime_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "kogake_prime_boot",
@@ -2627,20 +2627,20 @@
    "set": "Kompressa Prime Set",
    "slug": "kompressa_prime_set",
    "category": "weapon",
-   "set_price_ingame": 15,
-   "set_price_online": 15,
-   "parts_sum_ingame": 14,
-   "parts_sum_online": 14,
+   "set_price_ingame": 10,
+   "set_price_online": 10,
+   "parts_sum_ingame": 13,
+   "parts_sum_online": 13,
    "missing_parts": 0,
-   "difference_ingame": -1,
-   "difference_online": -1,
-   "pct_ingame": -6.7,
-   "pct_online": -6.7,
+   "difference_ingame": 3,
+   "difference_online": 3,
+   "pct_ingame": 30.0,
+   "pct_online": 30.0,
    "parts": [
     {
      "slug": "kompressa_prime_barrel",
-     "ingame": 9,
-     "online": 9
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "kompressa_prime_blueprint",
@@ -2658,20 +2658,20 @@
    "set": "Kronen Prime Set",
    "slug": "kronen_prime_set",
    "category": "weapon",
-   "set_price_ingame": 105,
-   "set_price_online": 105,
-   "parts_sum_ingame": 48,
-   "parts_sum_online": 47,
+   "set_price_ingame": 109,
+   "set_price_online": 109,
+   "parts_sum_ingame": 49,
+   "parts_sum_online": 48,
    "missing_parts": 0,
-   "difference_ingame": -57,
-   "difference_online": -58,
-   "pct_ingame": -54.3,
-   "pct_online": -55.2,
+   "difference_ingame": -60,
+   "difference_online": -61,
+   "pct_ingame": -55.0,
+   "pct_online": -56.0,
    "parts": [
     {
      "slug": "kronen_prime_blade",
-     "ingame": 34,
-     "online": 34
+     "ingame": 35,
+     "online": 35
     },
     {
      "slug": "kronen_prime_blueprint",
@@ -2689,34 +2689,34 @@
    "set": "Larkspur Prime Set",
    "slug": "larkspur_prime_set",
    "category": "weapon",
-   "set_price_ingame": 70,
+   "set_price_ingame": 69,
    "set_price_online": 69,
-   "parts_sum_ingame": 60,
-   "parts_sum_online": 59,
+   "parts_sum_ingame": 54,
+   "parts_sum_online": 53,
    "missing_parts": 0,
-   "difference_ingame": -10,
-   "difference_online": -10,
-   "pct_ingame": -14.3,
-   "pct_online": -14.5,
+   "difference_ingame": -15,
+   "difference_online": -16,
+   "pct_ingame": -21.7,
+   "pct_online": -23.2,
    "parts": [
     {
      "slug": "larkspur_prime_barrel",
-     "ingame": 38,
-     "online": 38
+     "ingame": 35,
+     "online": 35
     },
     {
      "slug": "larkspur_prime_blueprint",
-     "ingame": 7,
-     "online": 7
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "larkspur_prime_receiver",
-     "ingame": 8,
-     "online": 7
+     "ingame": 6,
+     "online": 6
     },
     {
      "slug": "larkspur_prime_stock",
-     "ingame": 7,
+     "ingame": 8,
      "online": 7
     }
    ]
@@ -2727,13 +2727,13 @@
    "category": "weapon",
    "set_price_ingame": 73,
    "set_price_online": 73,
-   "parts_sum_ingame": 66,
-   "parts_sum_online": 66,
+   "parts_sum_ingame": 65,
+   "parts_sum_online": 64,
    "missing_parts": 0,
-   "difference_ingame": -7,
-   "difference_online": -7,
-   "pct_ingame": -9.6,
-   "pct_online": -9.6,
+   "difference_ingame": -8,
+   "difference_online": -9,
+   "pct_ingame": -11.0,
+   "pct_online": -12.3,
    "parts": [
     {
      "slug": "latron_prime_barrel",
@@ -2742,8 +2742,8 @@
     },
     {
      "slug": "latron_prime_blueprint",
-     "ingame": 20,
-     "online": 20
+     "ingame": 18,
+     "online": 17
     },
     {
      "slug": "latron_prime_receiver",
@@ -2752,8 +2752,8 @@
     },
     {
      "slug": "latron_prime_stock",
-     "ingame": 19,
-     "online": 19
+     "ingame": 20,
+     "online": 20
     }
    ]
   },
@@ -2763,28 +2763,28 @@
    "category": "warframe",
    "set_price_ingame": 20,
    "set_price_online": 20,
-   "parts_sum_ingame": 19,
-   "parts_sum_online": 18,
+   "parts_sum_ingame": 17,
+   "parts_sum_online": 17,
    "missing_parts": 0,
-   "difference_ingame": -1,
-   "difference_online": -2,
-   "pct_ingame": -5.0,
-   "pct_online": -10.0,
+   "difference_ingame": -3,
+   "difference_online": -3,
+   "pct_ingame": -15.0,
+   "pct_online": -15.0,
    "parts": [
     {
      "slug": "lavos_prime_blueprint",
-     "ingame": 3,
-     "online": 3
-    },
-    {
-     "slug": "lavos_prime_chassis_blueprint",
      "ingame": 2,
      "online": 2
     },
     {
+     "slug": "lavos_prime_chassis_blueprint",
+     "ingame": 1,
+     "online": 1
+    },
+    {
      "slug": "lavos_prime_neuroptics_blueprint",
      "ingame": 4,
-     "online": 3
+     "online": 4
     },
     {
      "slug": "lavos_prime_systems_blueprint",
@@ -2797,20 +2797,20 @@
    "set": "Lex Prime Set",
    "slug": "lex_prime_set",
    "category": "weapon",
-   "set_price_ingame": 8,
-   "set_price_online": 8,
-   "parts_sum_ingame": 9,
-   "parts_sum_online": 9,
+   "set_price_ingame": 9,
+   "set_price_online": 9,
+   "parts_sum_ingame": 6,
+   "parts_sum_online": 6,
    "missing_parts": 0,
-   "difference_ingame": 1,
-   "difference_online": 1,
-   "pct_ingame": 12.5,
-   "pct_online": 12.5,
+   "difference_ingame": -3,
+   "difference_online": -3,
+   "pct_ingame": -33.3,
+   "pct_online": -33.3,
    "parts": [
     {
      "slug": "lex_prime_barrel",
-     "ingame": 4,
-     "online": 4
+     "ingame": 2,
+     "online": 2
     },
     {
      "slug": "lex_prime_blueprint",
@@ -2819,8 +2819,8 @@
     },
     {
      "slug": "lex_prime_receiver",
-     "ingame": 3,
-     "online": 3
+     "ingame": 2,
+     "online": 2
     }
    ]
   },
@@ -2828,30 +2828,30 @@
    "set": "Limbo Prime Set",
    "slug": "limbo_prime_set",
    "category": "warframe",
-   "set_price_ingame": 95,
-   "set_price_online": 90,
-   "parts_sum_ingame": 90,
-   "parts_sum_online": 88,
+   "set_price_ingame": 94,
+   "set_price_online": 94,
+   "parts_sum_ingame": 85,
+   "parts_sum_online": 84,
    "missing_parts": 0,
-   "difference_ingame": -5,
-   "difference_online": -2,
-   "pct_ingame": -5.3,
-   "pct_online": -2.2,
+   "difference_ingame": -9,
+   "difference_online": -10,
+   "pct_ingame": -9.6,
+   "pct_online": -10.6,
    "parts": [
     {
      "slug": "limbo_prime_blueprint",
-     "ingame": 6,
-     "online": 6
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "limbo_prime_chassis_blueprint",
-     "ingame": 50,
-     "online": 49
+     "ingame": 48,
+     "online": 48
     },
     {
      "slug": "limbo_prime_neuroptics_blueprint",
-     "ingame": 30,
-     "online": 29
+     "ingame": 28,
+     "online": 27
     },
     {
      "slug": "limbo_prime_systems_blueprint",
@@ -2866,18 +2866,18 @@
    "category": "warframe",
    "set_price_ingame": 78,
    "set_price_online": 78,
-   "parts_sum_ingame": 76,
-   "parts_sum_online": 76,
+   "parts_sum_ingame": 74,
+   "parts_sum_online": 73,
    "missing_parts": 0,
-   "difference_ingame": -2,
-   "difference_online": -2,
-   "pct_ingame": -2.6,
-   "pct_online": -2.6,
+   "difference_ingame": -4,
+   "difference_online": -5,
+   "pct_ingame": -5.1,
+   "pct_online": -6.4,
    "parts": [
     {
      "slug": "loki_prime_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "loki_prime_chassis_blueprint",
@@ -2886,13 +2886,13 @@
     },
     {
      "slug": "loki_prime_neuroptics_blueprint",
-     "ingame": 15,
+     "ingame": 16,
      "online": 15
     },
     {
      "slug": "loki_prime_systems_blueprint",
-     "ingame": 30,
-     "online": 30
+     "ingame": 28,
+     "online": 28
     }
    ]
   },
@@ -2900,25 +2900,25 @@
    "set": "Mag Prime Set",
    "slug": "mag_prime_set",
    "category": "warframe",
-   "set_price_ingame": 74,
-   "set_price_online": 74,
-   "parts_sum_ingame": 61,
-   "parts_sum_online": 61,
+   "set_price_ingame": 70,
+   "set_price_online": 70,
+   "parts_sum_ingame": 66,
+   "parts_sum_online": 66,
    "missing_parts": 0,
-   "difference_ingame": -13,
-   "difference_online": -13,
-   "pct_ingame": -17.6,
-   "pct_online": -17.6,
+   "difference_ingame": -4,
+   "difference_online": -4,
+   "pct_ingame": -5.7,
+   "pct_online": -5.7,
    "parts": [
     {
      "slug": "mag_prime_blueprint",
-     "ingame": 30,
-     "online": 30
+     "ingame": 32,
+     "online": 32
     },
     {
      "slug": "mag_prime_chassis_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 10,
+     "online": 10
     },
     {
      "slug": "mag_prime_neuroptics_blueprint",
@@ -2927,8 +2927,8 @@
     },
     {
      "slug": "mag_prime_systems_blueprint",
-     "ingame": 13,
-     "online": 13
+     "ingame": 15,
+     "online": 15
     }
    ]
   },
@@ -2938,18 +2938,18 @@
    "category": "weapon",
    "set_price_ingame": 39,
    "set_price_online": 39,
-   "parts_sum_ingame": 38,
-   "parts_sum_online": 38,
+   "parts_sum_ingame": 37,
+   "parts_sum_online": 37,
    "missing_parts": 0,
-   "difference_ingame": -1,
-   "difference_online": -1,
-   "pct_ingame": -2.6,
-   "pct_online": -2.6,
+   "difference_ingame": -2,
+   "difference_online": -2,
+   "pct_ingame": -5.1,
+   "pct_online": -5.1,
    "parts": [
     {
      "slug": "magnus_prime_barrel",
-     "ingame": 26,
-     "online": 26
+     "ingame": 25,
+     "online": 25
     },
     {
      "slug": "magnus_prime_blueprint",
@@ -2967,19 +2967,19 @@
    "set": "Masseter Prime Set",
    "slug": "masseter_prime_set",
    "category": "weapon",
-   "set_price_ingame": 18,
-   "set_price_online": 18,
-   "parts_sum_ingame": 19,
-   "parts_sum_online": 19,
+   "set_price_ingame": 15,
+   "set_price_online": 15,
+   "parts_sum_ingame": 22,
+   "parts_sum_online": 20,
    "missing_parts": 0,
-   "difference_ingame": 1,
-   "difference_online": 1,
-   "pct_ingame": 5.6,
-   "pct_online": 5.6,
+   "difference_ingame": 7,
+   "difference_online": 5,
+   "pct_ingame": 46.7,
+   "pct_online": 33.3,
    "parts": [
     {
      "slug": "masseter_prime_blade",
-     "ingame": 13,
+     "ingame": 15,
      "online": 13
     },
     {
@@ -2989,8 +2989,8 @@
     },
     {
      "slug": "masseter_prime_handle",
-     "ingame": 3,
-     "online": 3
+     "ingame": 4,
+     "online": 4
     }
    ]
   },
@@ -2998,34 +2998,34 @@
    "set": "Mesa Prime Set",
    "slug": "mesa_prime_set",
    "category": "warframe",
-   "set_price_ingame": 64,
-   "set_price_online": 60,
-   "parts_sum_ingame": 49,
-   "parts_sum_online": 48,
+   "set_price_ingame": 63,
+   "set_price_online": 63,
+   "parts_sum_ingame": 57,
+   "parts_sum_online": 52,
    "missing_parts": 0,
-   "difference_ingame": -15,
-   "difference_online": -12,
-   "pct_ingame": -23.4,
-   "pct_online": -20.0,
+   "difference_ingame": -6,
+   "difference_online": -11,
+   "pct_ingame": -9.5,
+   "pct_online": -17.5,
    "parts": [
     {
      "slug": "mesa_prime_blueprint",
+     "ingame": 7,
+     "online": 7
+    },
+    {
+     "slug": "mesa_prime_chassis_blueprint",
      "ingame": 6,
      "online": 5
     },
     {
-     "slug": "mesa_prime_chassis_blueprint",
-     "ingame": 5,
-     "online": 5
-    },
-    {
      "slug": "mesa_prime_neuroptics_blueprint",
-     "ingame": 25,
-     "online": 25
+     "ingame": 30,
+     "online": 27
     },
     {
      "slug": "mesa_prime_systems_blueprint",
-     "ingame": 13,
+     "ingame": 14,
      "online": 13
     }
    ]
@@ -3036,33 +3036,33 @@
    "category": "warframe",
    "set_price_ingame": 54,
    "set_price_online": 54,
-   "parts_sum_ingame": 46,
-   "parts_sum_online": 46,
+   "parts_sum_ingame": 52,
+   "parts_sum_online": 52,
    "missing_parts": 0,
-   "difference_ingame": -8,
-   "difference_online": -8,
-   "pct_ingame": -14.8,
-   "pct_online": -14.8,
+   "difference_ingame": -2,
+   "difference_online": -2,
+   "pct_ingame": -3.7,
+   "pct_online": -3.7,
    "parts": [
     {
      "slug": "mirage_prime_blueprint",
-     "ingame": 25,
-     "online": 25
+     "ingame": 26,
+     "online": 26
     },
     {
      "slug": "mirage_prime_chassis_blueprint",
-     "ingame": 7,
-     "online": 7
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "mirage_prime_neuroptics_blueprint",
-     "ingame": 4,
-     "online": 4
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "mirage_prime_systems_blueprint",
-     "ingame": 10,
-     "online": 10
+     "ingame": 13,
+     "online": 13
     }
    ]
   },
@@ -3070,20 +3070,20 @@
    "set": "Nagantaka Prime Set",
    "slug": "nagantaka_prime_set",
    "category": "weapon",
-   "set_price_ingame": 45,
-   "set_price_online": 43,
-   "parts_sum_ingame": 35,
-   "parts_sum_online": 35,
+   "set_price_ingame": 40,
+   "set_price_online": 40,
+   "parts_sum_ingame": 32,
+   "parts_sum_online": 32,
    "missing_parts": 0,
-   "difference_ingame": -10,
+   "difference_ingame": -8,
    "difference_online": -8,
-   "pct_ingame": -22.2,
-   "pct_online": -18.6,
+   "pct_ingame": -20.0,
+   "pct_online": -20.0,
    "parts": [
     {
      "slug": "nagantaka_prime_barrel",
-     "ingame": 9,
-     "online": 9
+     "ingame": 7,
+     "online": 7
     },
     {
      "slug": "nagantaka_prime_blueprint",
@@ -3097,8 +3097,8 @@
     },
     {
      "slug": "nagantaka_prime_stock",
-     "ingame": 7,
-     "online": 7
+     "ingame": 6,
+     "online": 6
     }
    ]
   },
@@ -3108,27 +3108,27 @@
    "category": "weapon",
    "set_price_ingame": 99,
    "set_price_online": 99,
-   "parts_sum_ingame": 45,
-   "parts_sum_online": 44,
+   "parts_sum_ingame": 54,
+   "parts_sum_online": 50,
    "missing_parts": 0,
-   "difference_ingame": -54,
-   "difference_online": -55,
-   "pct_ingame": -54.5,
-   "pct_online": -55.6,
+   "difference_ingame": -45,
+   "difference_online": -49,
+   "pct_ingame": -45.5,
+   "pct_online": -49.5,
    "parts": [
     {
      "slug": "nami_skyla_prime_blade",
-     "ingame": 29,
-     "online": 29
+     "ingame": 35,
+     "online": 35
     },
     {
      "slug": "nami_skyla_prime_blueprint",
-     "ingame": 8,
+     "ingame": 10,
      "online": 7
     },
     {
      "slug": "nami_skyla_prime_handle",
-     "ingame": 8,
+     "ingame": 9,
      "online": 8
     }
    ]
@@ -3137,35 +3137,35 @@
    "set": "Nautilus Prime Set",
    "slug": "nautilus_prime_set",
    "category": "companion",
-   "set_price_ingame": 48,
-   "set_price_online": 40,
-   "parts_sum_ingame": 46,
-   "parts_sum_online": 42,
+   "set_price_ingame": 45,
+   "set_price_online": 44,
+   "parts_sum_ingame": 42,
+   "parts_sum_online": 40,
    "missing_parts": 0,
-   "difference_ingame": -2,
-   "difference_online": 2,
-   "pct_ingame": -4.2,
-   "pct_online": 5.0,
+   "difference_ingame": -3,
+   "difference_online": -4,
+   "pct_ingame": -6.7,
+   "pct_online": -9.1,
    "parts": [
     {
      "slug": "nautilus_prime_blueprint",
      "ingame": 13,
-     "online": 9
+     "online": 13
     },
     {
      "slug": "nautilus_prime_carapace",
-     "ingame": 7,
-     "online": 7
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "nautilus_prime_cerebrum",
-     "ingame": 22,
-     "online": 22
+     "ingame": 23,
+     "online": 21
     },
     {
      "slug": "nautilus_prime_systems",
-     "ingame": 4,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     }
    ]
   },
@@ -3173,35 +3173,35 @@
    "set": "Nekros Prime Set",
    "slug": "nekros_prime_set",
    "category": "warframe",
-   "set_price_ingame": 94,
-   "set_price_online": 94,
-   "parts_sum_ingame": 88,
+   "set_price_ingame": 95,
+   "set_price_online": 95,
+   "parts_sum_ingame": 86,
    "parts_sum_online": 86,
    "missing_parts": 0,
-   "difference_ingame": -6,
-   "difference_online": -8,
-   "pct_ingame": -6.4,
-   "pct_online": -8.5,
+   "difference_ingame": -9,
+   "difference_online": -9,
+   "pct_ingame": -9.5,
+   "pct_online": -9.5,
    "parts": [
     {
      "slug": "nekros_prime_blueprint",
-     "ingame": 25,
-     "online": 25
-    },
-    {
-     "slug": "nekros_prime_chassis_blueprint",
-     "ingame": 6,
-     "online": 6
-    },
-    {
-     "slug": "nekros_prime_neuroptics_blueprint",
-     "ingame": 30,
+     "ingame": 28,
      "online": 28
     },
     {
+     "slug": "nekros_prime_chassis_blueprint",
+     "ingame": 7,
+     "online": 7
+    },
+    {
+     "slug": "nekros_prime_neuroptics_blueprint",
+     "ingame": 23,
+     "online": 23
+    },
+    {
      "slug": "nekros_prime_systems_blueprint",
-     "ingame": 27,
-     "online": 27
+     "ingame": 28,
+     "online": 28
     }
    ]
   },
@@ -3209,24 +3209,24 @@
    "set": "Nezha Prime Set",
    "slug": "nezha_prime_set",
    "category": "warframe",
-   "set_price_ingame": 65,
-   "set_price_online": 65,
-   "parts_sum_ingame": 59,
-   "parts_sum_online": 56,
+   "set_price_ingame": 69,
+   "set_price_online": 69,
+   "parts_sum_ingame": 64,
+   "parts_sum_online": 60,
    "missing_parts": 0,
-   "difference_ingame": -6,
+   "difference_ingame": -5,
    "difference_online": -9,
-   "pct_ingame": -9.2,
-   "pct_online": -13.8,
+   "pct_ingame": -7.2,
+   "pct_online": -13.0,
    "parts": [
     {
      "slug": "nezha_prime_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "nezha_prime_chassis_blueprint",
-     "ingame": 27,
+     "ingame": 29,
      "online": 25
     },
     {
@@ -3236,7 +3236,7 @@
     },
     {
      "slug": "nezha_prime_systems_blueprint",
-     "ingame": 5,
+     "ingame": 4,
      "online": 4
     }
    ]
@@ -3248,32 +3248,32 @@
    "set_price_ingame": 89,
    "set_price_online": 89,
    "parts_sum_ingame": 86,
-   "parts_sum_online": 84,
+   "parts_sum_online": 86,
    "missing_parts": 0,
    "difference_ingame": -3,
-   "difference_online": -5,
+   "difference_online": -3,
    "pct_ingame": -3.4,
-   "pct_online": -5.6,
+   "pct_online": -3.4,
    "parts": [
     {
      "slug": "nidus_prime_blueprint",
-     "ingame": 9,
-     "online": 7
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "nidus_prime_chassis_blueprint",
-     "ingame": 35,
-     "online": 35
+     "ingame": 33,
+     "online": 33
     },
     {
      "slug": "nidus_prime_neuroptics_blueprint",
-     "ingame": 37,
-     "online": 37
+     "ingame": 38,
+     "online": 38
     },
     {
      "slug": "nidus_prime_systems_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 7,
+     "online": 7
     }
    ]
   },
@@ -3283,18 +3283,18 @@
    "category": "weapon",
    "set_price_ingame": 65,
    "set_price_online": 65,
-   "parts_sum_ingame": 56,
-   "parts_sum_online": 56,
+   "parts_sum_ingame": 58,
+   "parts_sum_online": 58,
    "missing_parts": 0,
-   "difference_ingame": -9,
-   "difference_online": -9,
-   "pct_ingame": -13.8,
-   "pct_online": -13.8,
+   "difference_ingame": -7,
+   "difference_online": -7,
+   "pct_ingame": -10.8,
+   "pct_online": -10.8,
    "parts": [
     {
      "slug": "nikana_prime_blade",
-     "ingame": 17,
-     "online": 17
+     "ingame": 15,
+     "online": 15
     },
     {
      "slug": "nikana_prime_blueprint",
@@ -3303,8 +3303,8 @@
     },
     {
      "slug": "nikana_prime_hilt",
-     "ingame": 34,
-     "online": 34
+     "ingame": 38,
+     "online": 38
     }
    ]
   },
@@ -3315,12 +3315,12 @@
    "set_price_ingame": 60,
    "set_price_online": 60,
    "parts_sum_ingame": 27,
-   "parts_sum_online": 26,
+   "parts_sum_online": 27,
    "missing_parts": 0,
    "difference_ingame": -33,
-   "difference_online": -34,
+   "difference_online": -33,
    "pct_ingame": -55.0,
-   "pct_online": -56.7,
+   "pct_online": -55.0,
    "parts": [
     {
      "slug": "ninkondi_prime_blueprint",
@@ -3335,7 +3335,7 @@
     {
      "slug": "ninkondi_prime_handle",
      "ingame": 20,
-     "online": 19
+     "online": 20
     }
    ]
   },
@@ -3355,8 +3355,8 @@
    "parts": [
     {
      "slug": "nova_prime_blueprint",
-     "ingame": 10,
-     "online": 10
+     "ingame": 11,
+     "online": 11
     },
     {
      "slug": "nova_prime_chassis_blueprint",
@@ -3370,8 +3370,8 @@
     },
     {
      "slug": "nova_prime_systems_blueprint",
-     "ingame": 10,
-     "online": 10
+     "ingame": 9,
+     "online": 9
     }
    ]
   },
@@ -3379,15 +3379,15 @@
    "set": "Nyx Prime Set",
    "slug": "nyx_prime_set",
    "category": "warframe",
-   "set_price_ingame": 58,
-   "set_price_online": 55,
-   "parts_sum_ingame": 50,
-   "parts_sum_online": 50,
+   "set_price_ingame": 55,
+   "set_price_online": 50,
+   "parts_sum_ingame": 52,
+   "parts_sum_online": 51,
    "missing_parts": 0,
-   "difference_ingame": -8,
-   "difference_online": -5,
-   "pct_ingame": -13.8,
-   "pct_online": -9.1,
+   "difference_ingame": -3,
+   "difference_online": 1,
+   "pct_ingame": -5.5,
+   "pct_online": 2.0,
    "parts": [
     {
      "slug": "nyx_prime_blueprint",
@@ -3396,18 +3396,18 @@
     },
     {
      "slug": "nyx_prime_chassis_blueprint",
-     "ingame": 7,
-     "online": 7
+     "ingame": 6,
+     "online": 6
     },
     {
      "slug": "nyx_prime_neuroptics_blueprint",
-     "ingame": 25,
-     "online": 25
+     "ingame": 29,
+     "online": 28
     },
     {
      "slug": "nyx_prime_systems_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 8,
+     "online": 8
     }
    ]
   },
@@ -3417,18 +3417,18 @@
    "category": "warframe",
    "set_price_ingame": 85,
    "set_price_online": 85,
-   "parts_sum_ingame": 65,
-   "parts_sum_online": 65,
+   "parts_sum_ingame": 74,
+   "parts_sum_online": 69,
    "missing_parts": 0,
-   "difference_ingame": -20,
-   "difference_online": -20,
-   "pct_ingame": -23.5,
-   "pct_online": -23.5,
+   "difference_ingame": -11,
+   "difference_online": -16,
+   "pct_ingame": -12.9,
+   "pct_online": -18.8,
    "parts": [
     {
      "slug": "oberon_prime_blueprint",
-     "ingame": 8,
-     "online": 8
+     "ingame": 10,
+     "online": 10
     },
     {
      "slug": "oberon_prime_chassis_blueprint",
@@ -3437,13 +3437,13 @@
     },
     {
      "slug": "oberon_prime_neuroptics_blueprint",
-     "ingame": 30,
+     "ingame": 35,
      "online": 30
     },
     {
      "slug": "oberon_prime_systems_blueprint",
-     "ingame": 17,
-     "online": 17
+     "ingame": 19,
+     "online": 19
     }
    ]
   },
@@ -3451,15 +3451,15 @@
    "set": "Octavia Prime Set",
    "slug": "octavia_prime_set",
    "category": "warframe",
-   "set_price_ingame": 79,
-   "set_price_online": 79,
-   "parts_sum_ingame": 67,
-   "parts_sum_online": 67,
+   "set_price_ingame": 80,
+   "set_price_online": 80,
+   "parts_sum_ingame": 68,
+   "parts_sum_online": 68,
    "missing_parts": 0,
    "difference_ingame": -12,
    "difference_online": -12,
-   "pct_ingame": -15.2,
-   "pct_online": -15.2,
+   "pct_ingame": -15.0,
+   "pct_online": -15.0,
    "parts": [
     {
      "slug": "octavia_prime_blueprint",
@@ -3468,8 +3468,8 @@
     },
     {
      "slug": "octavia_prime_chassis_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 10,
+     "online": 10
     },
     {
      "slug": "octavia_prime_neuroptics_blueprint",
@@ -3489,23 +3489,23 @@
    "category": "companion",
    "set_price_ingame": 40,
    "set_price_online": 40,
-   "parts_sum_ingame": 49,
-   "parts_sum_online": 42,
+   "parts_sum_ingame": 51,
+   "parts_sum_online": 51,
    "missing_parts": 0,
-   "difference_ingame": 9,
-   "difference_online": 2,
-   "pct_ingame": 22.5,
-   "pct_online": 5.0,
+   "difference_ingame": 11,
+   "difference_online": 11,
+   "pct_ingame": 27.5,
+   "pct_online": 27.5,
    "parts": [
     {
      "slug": "odonata_prime_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "odonata_prime_harness_blueprint",
-     "ingame": 10,
-     "online": 10
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "odonata_prime_systems_blueprint",
@@ -3515,7 +3515,7 @@
     {
      "slug": "odonata_prime_wings_blueprint",
      "ingame": 27,
-     "online": 20
+     "online": 27
     }
    ]
   },
@@ -3523,30 +3523,30 @@
    "set": "Okina Prime Set",
    "slug": "okina_prime_set",
    "category": "weapon",
-   "set_price_ingame": 50,
-   "set_price_online": 50,
-   "parts_sum_ingame": 25,
+   "set_price_ingame": 47,
+   "set_price_online": 45,
+   "parts_sum_ingame": 24,
    "parts_sum_online": 24,
    "missing_parts": 0,
-   "difference_ingame": -25,
-   "difference_online": -26,
-   "pct_ingame": -50.0,
-   "pct_online": -52.0,
+   "difference_ingame": -23,
+   "difference_online": -21,
+   "pct_ingame": -48.9,
+   "pct_online": -46.7,
    "parts": [
     {
      "slug": "okina_prime_blade",
-     "ingame": 6,
-     "online": 6
+     "ingame": 7,
+     "online": 7
     },
     {
      "slug": "okina_prime_blueprint",
-     "ingame": 14,
-     "online": 13
+     "ingame": 11,
+     "online": 11
     },
     {
      "slug": "okina_prime_handle",
-     "ingame": 5,
-     "online": 5
+     "ingame": 6,
+     "online": 6
     }
    ]
   },
@@ -3555,19 +3555,19 @@
    "slug": "orthos_prime_set",
    "category": "weapon",
    "set_price_ingame": 9,
-   "set_price_online": 9,
-   "parts_sum_ingame": 9,
-   "parts_sum_online": 9,
+   "set_price_online": 8,
+   "parts_sum_ingame": 8,
+   "parts_sum_online": 8,
    "missing_parts": 0,
-   "difference_ingame": 0,
+   "difference_ingame": -1,
    "difference_online": 0,
-   "pct_ingame": 0.0,
+   "pct_ingame": -11.1,
    "pct_online": 0.0,
    "parts": [
     {
      "slug": "orthos_prime_blade",
-     "ingame": 4,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "orthos_prime_blueprint",
@@ -3586,14 +3586,14 @@
    "slug": "pandero_prime_set",
    "category": "weapon",
    "set_price_ingame": 39,
-   "set_price_online": 39,
-   "parts_sum_ingame": 40,
-   "parts_sum_online": 40,
+   "set_price_online": 35,
+   "parts_sum_ingame": 39,
+   "parts_sum_online": 39,
    "missing_parts": 0,
-   "difference_ingame": 1,
-   "difference_online": 1,
-   "pct_ingame": 2.6,
-   "pct_online": 2.6,
+   "difference_ingame": 0,
+   "difference_online": 4,
+   "pct_ingame": 0.0,
+   "pct_online": 11.4,
    "parts": [
     {
      "slug": "pandero_prime_barrel",
@@ -3607,8 +3607,8 @@
     },
     {
      "slug": "pandero_prime_receiver",
-     "ingame": 30,
-     "online": 30
+     "ingame": 29,
+     "online": 29
     }
    ]
   },
@@ -3616,15 +3616,15 @@
    "set": "Pangolin Prime Set",
    "slug": "pangolin_prime_set",
    "category": "weapon",
-   "set_price_ingame": 29,
-   "set_price_online": 20,
-   "parts_sum_ingame": 23,
-   "parts_sum_online": 23,
+   "set_price_ingame": 30,
+   "set_price_online": 30,
+   "parts_sum_ingame": 22,
+   "parts_sum_online": 22,
    "missing_parts": 0,
-   "difference_ingame": -6,
-   "difference_online": 3,
-   "pct_ingame": -20.7,
-   "pct_online": 15.0,
+   "difference_ingame": -8,
+   "difference_online": -8,
+   "pct_ingame": -26.7,
+   "pct_online": -26.7,
    "parts": [
     {
      "slug": "pangolin_prime_blade",
@@ -3633,8 +3633,8 @@
     },
     {
      "slug": "pangolin_prime_blueprint",
-     "ingame": 10,
-     "online": 10
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "pangolin_prime_handle",
@@ -3647,35 +3647,35 @@
    "set": "Panthera Prime Set",
    "slug": "panthera_prime_set",
    "category": "weapon",
-   "set_price_ingame": 67,
-   "set_price_online": 67,
-   "parts_sum_ingame": 53,
-   "parts_sum_online": 52,
+   "set_price_ingame": 69,
+   "set_price_online": 69,
+   "parts_sum_ingame": 51,
+   "parts_sum_online": 51,
    "missing_parts": 0,
-   "difference_ingame": -14,
-   "difference_online": -15,
-   "pct_ingame": -20.9,
-   "pct_online": -22.4,
+   "difference_ingame": -18,
+   "difference_online": -18,
+   "pct_ingame": -26.1,
+   "pct_online": -26.1,
    "parts": [
     {
      "slug": "panthera_prime_barrel",
-     "ingame": 21,
-     "online": 21
+     "ingame": 22,
+     "online": 22
     },
     {
      "slug": "panthera_prime_blueprint",
-     "ingame": 8,
-     "online": 8
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "panthera_prime_receiver",
-     "ingame": 16,
-     "online": 15
+     "ingame": 18,
+     "online": 18
     },
     {
      "slug": "panthera_prime_stock",
-     "ingame": 8,
-     "online": 8
+     "ingame": 6,
+     "online": 6
     }
    ]
   },
@@ -3683,20 +3683,20 @@
    "set": "Paris Prime Set",
    "slug": "paris_prime_set",
    "category": "weapon",
-   "set_price_ingame": 10,
-   "set_price_online": 9,
-   "parts_sum_ingame": 11,
-   "parts_sum_online": 11,
+   "set_price_ingame": 8,
+   "set_price_online": 8,
+   "parts_sum_ingame": 12,
+   "parts_sum_online": 12,
    "missing_parts": 0,
-   "difference_ingame": 1,
-   "difference_online": 2,
-   "pct_ingame": 10.0,
-   "pct_online": 22.2,
+   "difference_ingame": 4,
+   "difference_online": 4,
+   "pct_ingame": 50.0,
+   "pct_online": 50.0,
    "parts": [
     {
      "slug": "paris_prime_blueprint",
-     "ingame": 2,
-     "online": 2
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "paris_prime_grip",
@@ -3705,13 +3705,13 @@
     },
     {
      "slug": "paris_prime_lower_limb",
-     "ingame": 1,
-     "online": 1
+     "ingame": 2,
+     "online": 2
     },
     {
      "slug": "paris_prime_string",
-     "ingame": 3,
-     "online": 3
+     "ingame": 2,
+     "online": 2
     },
     {
      "slug": "paris_prime_upper_limb",
@@ -3726,33 +3726,33 @@
    "category": "weapon",
    "set_price_ingame": 30,
    "set_price_online": 28,
-   "parts_sum_ingame": 26,
-   "parts_sum_online": 24,
+   "parts_sum_ingame": 28,
+   "parts_sum_online": 28,
    "missing_parts": 0,
-   "difference_ingame": -4,
-   "difference_online": -4,
-   "pct_ingame": -13.3,
-   "pct_online": -14.3,
+   "difference_ingame": -2,
+   "difference_online": 0,
+   "pct_ingame": -6.7,
+   "pct_online": 0.0,
    "parts": [
     {
      "slug": "perigale_prime_barrel",
-     "ingame": 16,
-     "online": 16
+     "ingame": 18,
+     "online": 18
     },
     {
      "slug": "perigale_prime_blueprint",
-     "ingame": 2,
-     "online": 2
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "perigale_prime_receiver",
      "ingame": 5,
-     "online": 3
+     "online": 5
     },
     {
      "slug": "perigale_prime_stock",
-     "ingame": 3,
-     "online": 3
+     "ingame": 2,
+     "online": 2
     }
    ]
   },
@@ -3762,33 +3762,33 @@
    "category": "weapon",
    "set_price_ingame": 50,
    "set_price_online": 50,
-   "parts_sum_ingame": 50,
-   "parts_sum_online": 48,
+   "parts_sum_ingame": 46,
+   "parts_sum_online": 42,
    "missing_parts": 0,
-   "difference_ingame": 0,
-   "difference_online": -2,
-   "pct_ingame": 0.0,
-   "pct_online": -4.0,
+   "difference_ingame": -4,
+   "difference_online": -8,
+   "pct_ingame": -8.0,
+   "pct_online": -16.0,
    "parts": [
     {
      "slug": "phantasma_prime_barrel",
-     "ingame": 22,
-     "online": 22
+     "ingame": 20,
+     "online": 18
     },
     {
      "slug": "phantasma_prime_blueprint",
-     "ingame": 4,
-     "online": 4
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "phantasma_prime_receiver",
-     "ingame": 7,
-     "online": 7
+     "ingame": 8,
+     "online": 6
     },
     {
      "slug": "phantasma_prime_stock",
-     "ingame": 17,
-     "online": 15
+     "ingame": 13,
+     "online": 13
     }
    ]
   },
@@ -3796,15 +3796,15 @@
    "set": "Protea Prime Set",
    "slug": "protea_prime_set",
    "category": "warframe",
-   "set_price_ingame": 37,
-   "set_price_online": 37,
-   "parts_sum_ingame": 30,
-   "parts_sum_online": 30,
+   "set_price_ingame": 35,
+   "set_price_online": 35,
+   "parts_sum_ingame": 29,
+   "parts_sum_online": 29,
    "missing_parts": 0,
-   "difference_ingame": -7,
-   "difference_online": -7,
-   "pct_ingame": -18.9,
-   "pct_online": -18.9,
+   "difference_ingame": -6,
+   "difference_online": -6,
+   "pct_ingame": -17.1,
+   "pct_online": -17.1,
    "parts": [
     {
      "slug": "protea_prime_blueprint",
@@ -3823,8 +3823,8 @@
     },
     {
      "slug": "protea_prime_systems_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 8,
+     "online": 8
     }
    ]
   },
@@ -3832,30 +3832,30 @@
    "set": "Pyrana Prime Set",
    "slug": "pyrana_prime_set",
    "category": "weapon",
-   "set_price_ingame": 60,
-   "set_price_online": 60,
-   "parts_sum_ingame": 46,
-   "parts_sum_online": 46,
+   "set_price_ingame": 64,
+   "set_price_online": 64,
+   "parts_sum_ingame": 50,
+   "parts_sum_online": 50,
    "missing_parts": 0,
    "difference_ingame": -14,
    "difference_online": -14,
-   "pct_ingame": -23.3,
-   "pct_online": -23.3,
+   "pct_ingame": -21.9,
+   "pct_online": -21.9,
    "parts": [
     {
      "slug": "pyrana_prime_barrel",
-     "ingame": 5,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "pyrana_prime_blueprint",
-     "ingame": 34,
-     "online": 34
+     "ingame": 40,
+     "online": 40
     },
     {
      "slug": "pyrana_prime_receiver",
-     "ingame": 7,
-     "online": 7
+     "ingame": 6,
+     "online": 6
     }
    ]
   },
@@ -3863,30 +3863,30 @@
    "set": "Quassus Prime Set",
    "slug": "quassus_prime_set",
    "category": "weapon",
-   "set_price_ingame": 29,
-   "set_price_online": 29,
-   "parts_sum_ingame": 12,
-   "parts_sum_online": 12,
+   "set_price_ingame": 25,
+   "set_price_online": 25,
+   "parts_sum_ingame": 14,
+   "parts_sum_online": 14,
    "missing_parts": 0,
-   "difference_ingame": -17,
-   "difference_online": -17,
-   "pct_ingame": -58.6,
-   "pct_online": -58.6,
+   "difference_ingame": -11,
+   "difference_online": -11,
+   "pct_ingame": -44.0,
+   "pct_online": -44.0,
    "parts": [
     {
      "slug": "quassus_prime_blade",
-     "ingame": 5,
-     "online": 5
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "quassus_prime_blueprint",
-     "ingame": 3,
-     "online": 3
+     "ingame": 2,
+     "online": 2
     },
     {
      "slug": "quassus_prime_handle",
-     "ingame": 4,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     }
    ]
   },
@@ -3894,25 +3894,25 @@
    "set": "Reaper Prime Set",
    "slug": "reaper_prime_set",
    "category": "weapon",
-   "set_price_ingame": 30,
-   "set_price_online": 30,
-   "parts_sum_ingame": 26,
-   "parts_sum_online": 26,
+   "set_price_ingame": 33,
+   "set_price_online": 33,
+   "parts_sum_ingame": 25,
+   "parts_sum_online": 22,
    "missing_parts": 0,
-   "difference_ingame": -4,
-   "difference_online": -4,
-   "pct_ingame": -13.3,
-   "pct_online": -13.3,
+   "difference_ingame": -8,
+   "difference_online": -11,
+   "pct_ingame": -24.2,
+   "pct_online": -33.3,
    "parts": [
     {
      "slug": "reaper_prime_blade",
-     "ingame": 10,
-     "online": 10
+     "ingame": 9,
+     "online": 7
     },
     {
      "slug": "reaper_prime_blueprint",
      "ingame": 9,
-     "online": 9
+     "online": 8
     },
     {
      "slug": "reaper_prime_handle",
@@ -3927,23 +3927,23 @@
    "category": "weapon",
    "set_price_ingame": 48,
    "set_price_online": 48,
-   "parts_sum_ingame": 48,
-   "parts_sum_online": 47,
+   "parts_sum_ingame": 45,
+   "parts_sum_online": 45,
    "missing_parts": 0,
-   "difference_ingame": 0,
-   "difference_online": -1,
-   "pct_ingame": 0.0,
-   "pct_online": -2.1,
+   "difference_ingame": -3,
+   "difference_online": -3,
+   "pct_ingame": -6.2,
+   "pct_online": -6.2,
    "parts": [
     {
      "slug": "redeemer_prime_blade",
-     "ingame": 6,
-     "online": 6
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "redeemer_prime_blueprint",
-     "ingame": 6,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "redeemer_prime_handle",
@@ -3956,34 +3956,34 @@
    "set": "Revenant Prime Set",
    "slug": "revenant_prime_set",
    "category": "warframe",
-   "set_price_ingame": 52,
+   "set_price_ingame": 50,
    "set_price_online": 50,
-   "parts_sum_ingame": 49,
-   "parts_sum_online": 41,
+   "parts_sum_ingame": 43,
+   "parts_sum_online": 43,
    "missing_parts": 0,
-   "difference_ingame": -3,
-   "difference_online": -9,
-   "pct_ingame": -5.8,
-   "pct_online": -18.0,
+   "difference_ingame": -7,
+   "difference_online": -7,
+   "pct_ingame": -14.0,
+   "pct_online": -14.0,
    "parts": [
     {
      "slug": "revenant_prime_blueprint",
-     "ingame": 25,
+     "ingame": 23,
      "online": 23
     },
     {
      "slug": "revenant_prime_chassis_blueprint",
      "ingame": 7,
-     "online": 6
+     "online": 7
     },
     {
      "slug": "revenant_prime_neuroptics_blueprint",
-     "ingame": 7,
-     "online": 4
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "revenant_prime_systems_blueprint",
-     "ingame": 10,
+     "ingame": 8,
      "online": 8
     }
    ]
@@ -3992,35 +3992,35 @@
    "set": "Rhino Prime Set",
    "slug": "rhino_prime_set",
    "category": "warframe",
-   "set_price_ingame": 55,
+   "set_price_ingame": 59,
    "set_price_online": 55,
-   "parts_sum_ingame": 48,
-   "parts_sum_online": 46,
+   "parts_sum_ingame": 45,
+   "parts_sum_online": 45,
    "missing_parts": 0,
-   "difference_ingame": -7,
-   "difference_online": -9,
-   "pct_ingame": -12.7,
-   "pct_online": -16.4,
+   "difference_ingame": -14,
+   "difference_online": -10,
+   "pct_ingame": -23.7,
+   "pct_online": -18.2,
    "parts": [
     {
      "slug": "rhino_prime_blueprint",
-     "ingame": 20,
-     "online": 20
+     "ingame": 19,
+     "online": 19
     },
     {
      "slug": "rhino_prime_chassis_blueprint",
-     "ingame": 10,
-     "online": 8
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "rhino_prime_neuroptics_blueprint",
-     "ingame": 13,
-     "online": 13
+     "ingame": 10,
+     "online": 10
     },
     {
      "slug": "rhino_prime_systems_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 7,
+     "online": 7
     }
    ]
   },
@@ -4028,25 +4028,25 @@
    "set": "Rubico Prime Set",
    "slug": "rubico_prime_set",
    "category": "weapon",
-   "set_price_ingame": 42,
-   "set_price_online": 42,
+   "set_price_ingame": 52,
+   "set_price_online": 49,
    "parts_sum_ingame": 37,
    "parts_sum_online": 37,
    "missing_parts": 0,
-   "difference_ingame": -5,
-   "difference_online": -5,
-   "pct_ingame": -11.9,
-   "pct_online": -11.9,
+   "difference_ingame": -15,
+   "difference_online": -12,
+   "pct_ingame": -28.8,
+   "pct_online": -24.5,
    "parts": [
     {
      "slug": "rubico_prime_barrel",
-     "ingame": 6,
-     "online": 6
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "rubico_prime_blueprint",
-     "ingame": 19,
-     "online": 19
+     "ingame": 18,
+     "online": 18
     },
     {
      "slug": "rubico_prime_receiver",
@@ -4055,8 +4055,8 @@
     },
     {
      "slug": "rubico_prime_stock",
-     "ingame": 7,
-     "online": 7
+     "ingame": 6,
+     "online": 6
     }
    ]
   },
@@ -4066,23 +4066,23 @@
    "category": "weapon",
    "set_price_ingame": 14,
    "set_price_online": 14,
-   "parts_sum_ingame": 15,
-   "parts_sum_online": 15,
+   "parts_sum_ingame": 11,
+   "parts_sum_online": 11,
    "missing_parts": 0,
-   "difference_ingame": 1,
-   "difference_online": 1,
-   "pct_ingame": 7.1,
-   "pct_online": 7.1,
+   "difference_ingame": -3,
+   "difference_online": -3,
+   "pct_ingame": -21.4,
+   "pct_online": -21.4,
    "parts": [
     {
      "slug": "sarofang_prime_blade",
-     "ingame": 9,
-     "online": 9
+     "ingame": 6,
+     "online": 6
     },
     {
      "slug": "sarofang_prime_blueprint",
-     "ingame": 3,
-     "online": 3
+     "ingame": 2,
+     "online": 2
     },
     {
      "slug": "sarofang_prime_handle",
@@ -4095,35 +4095,35 @@
    "set": "Saryn Prime Set",
    "slug": "saryn_prime_set",
    "category": "warframe",
-   "set_price_ingame": 76,
-   "set_price_online": 76,
-   "parts_sum_ingame": 71,
+   "set_price_ingame": 78,
+   "set_price_online": 78,
+   "parts_sum_ingame": 74,
    "parts_sum_online": 71,
    "missing_parts": 0,
-   "difference_ingame": -5,
-   "difference_online": -5,
-   "pct_ingame": -6.6,
-   "pct_online": -6.6,
+   "difference_ingame": -4,
+   "difference_online": -7,
+   "pct_ingame": -5.1,
+   "pct_online": -9.0,
    "parts": [
     {
      "slug": "saryn_prime_blueprint",
-     "ingame": 18,
-     "online": 18
+     "ingame": 16,
+     "online": 15
     },
     {
      "slug": "saryn_prime_chassis_blueprint",
-     "ingame": 39,
-     "online": 39
+     "ingame": 40,
+     "online": 40
     },
     {
      "slug": "saryn_prime_neuroptics_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 10,
+     "online": 10
     },
     {
      "slug": "saryn_prime_systems_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 8,
+     "online": 6
     }
    ]
   },
@@ -4131,14 +4131,14 @@
    "set": "Scindo Prime Set",
    "slug": "scindo_prime_set",
    "category": "weapon",
-   "set_price_ingame": 29,
+   "set_price_ingame": 28,
    "set_price_online": 28,
-   "parts_sum_ingame": 30,
+   "parts_sum_ingame": 29,
    "parts_sum_online": 27,
    "missing_parts": 0,
    "difference_ingame": 1,
    "difference_online": -1,
-   "pct_ingame": 3.4,
+   "pct_ingame": 3.6,
    "pct_online": -3.6,
    "parts": [
     {
@@ -4148,12 +4148,12 @@
     },
     {
      "slug": "scindo_prime_blueprint",
-     "ingame": 5,
+     "ingame": 6,
      "online": 5
     },
     {
      "slug": "scindo_prime_handle",
-     "ingame": 10,
+     "ingame": 8,
      "online": 7
     }
    ]
@@ -4162,15 +4162,15 @@
    "set": "Scourge Prime Set",
    "slug": "scourge_prime_set",
    "category": "weapon",
-   "set_price_ingame": 85,
-   "set_price_online": 85,
+   "set_price_ingame": 80,
+   "set_price_online": 80,
    "parts_sum_ingame": 68,
    "parts_sum_online": 68,
    "missing_parts": 0,
-   "difference_ingame": -17,
-   "difference_online": -17,
-   "pct_ingame": -20.0,
-   "pct_online": -20.0,
+   "difference_ingame": -12,
+   "difference_online": -12,
+   "pct_ingame": -15.0,
+   "pct_online": -15.0,
    "parts": [
     {
      "slug": "scourge_prime_barrel",
@@ -4198,25 +4198,25 @@
    "set": "Sevagoth Prime Set",
    "slug": "sevagoth_prime_set",
    "category": "warframe",
-   "set_price_ingame": 38,
-   "set_price_online": 25,
-   "parts_sum_ingame": 36,
-   "parts_sum_online": 32,
+   "set_price_ingame": 30,
+   "set_price_online": 30,
+   "parts_sum_ingame": 33,
+   "parts_sum_online": 33,
    "missing_parts": 0,
-   "difference_ingame": -2,
-   "difference_online": 7,
-   "pct_ingame": -5.3,
-   "pct_online": 28.0,
+   "difference_ingame": 3,
+   "difference_online": 3,
+   "pct_ingame": 10.0,
+   "pct_online": 10.0,
    "parts": [
     {
      "slug": "sevagoth_prime_blueprint",
-     "ingame": 5,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "sevagoth_prime_chassis_blueprint",
      "ingame": 25,
-     "online": 24
+     "online": 25
     },
     {
      "slug": "sevagoth_prime_neuroptics_blueprint",
@@ -4225,8 +4225,8 @@
     },
     {
      "slug": "sevagoth_prime_systems_blueprint",
-     "ingame": 4,
-     "online": 2
+     "ingame": 3,
+     "online": 3
     }
    ]
   },
@@ -4234,25 +4234,25 @@
    "set": "Shade Prime Set",
    "slug": "shade_prime_set",
    "category": "companion",
-   "set_price_ingame": 55,
-   "set_price_online": 47,
-   "parts_sum_ingame": 43,
-   "parts_sum_online": 39,
+   "set_price_ingame": 50,
+   "set_price_online": 49,
+   "parts_sum_ingame": 31,
+   "parts_sum_online": 31,
    "missing_parts": 0,
-   "difference_ingame": -12,
-   "difference_online": -8,
-   "pct_ingame": -21.8,
-   "pct_online": -17.0,
+   "difference_ingame": -19,
+   "difference_online": -18,
+   "pct_ingame": -38.0,
+   "pct_online": -36.7,
    "parts": [
     {
      "slug": "shade_prime_blueprint",
-     "ingame": 4,
-     "online": 4
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "shade_prime_carapace",
-     "ingame": 28,
-     "online": 24
+     "ingame": 16,
+     "online": 16
     },
     {
      "slug": "shade_prime_cerebrum",
@@ -4261,8 +4261,8 @@
     },
     {
      "slug": "shade_prime_systems",
-     "ingame": 5,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     }
    ]
   },
@@ -4270,20 +4270,20 @@
    "set": "Sicarus Prime Set",
    "slug": "sicarus_prime_set",
    "category": "weapon",
-   "set_price_ingame": 58,
-   "set_price_online": 58,
-   "parts_sum_ingame": 53,
+   "set_price_ingame": 59,
+   "set_price_online": 59,
+   "parts_sum_ingame": 51,
    "parts_sum_online": 51,
    "missing_parts": 0,
-   "difference_ingame": -5,
-   "difference_online": -7,
-   "pct_ingame": -8.6,
-   "pct_online": -12.1,
+   "difference_ingame": -8,
+   "difference_online": -8,
+   "pct_ingame": -13.6,
+   "pct_online": -13.6,
    "parts": [
     {
      "slug": "sicarus_prime_barrel",
-     "ingame": 14,
-     "online": 12
+     "ingame": 10,
+     "online": 10
     },
     {
      "slug": "sicarus_prime_blueprint",
@@ -4292,8 +4292,8 @@
     },
     {
      "slug": "sicarus_prime_receiver",
-     "ingame": 33,
-     "online": 33
+     "ingame": 35,
+     "online": 35
     }
    ]
   },
@@ -4301,30 +4301,30 @@
    "set": "Silva & Aegis Prime Set",
    "slug": "silva_and_aegis_prime_set",
    "category": "weapon",
-   "set_price_ingame": 59,
-   "set_price_online": 59,
-   "parts_sum_ingame": 44,
-   "parts_sum_online": 44,
+   "set_price_ingame": 55,
+   "set_price_online": 55,
+   "parts_sum_ingame": 40,
+   "parts_sum_online": 40,
    "missing_parts": 0,
    "difference_ingame": -15,
    "difference_online": -15,
-   "pct_ingame": -25.4,
-   "pct_online": -25.4,
+   "pct_ingame": -27.3,
+   "pct_online": -27.3,
    "parts": [
     {
      "slug": "silva_and_aegis_prime_blade",
+     "ingame": 7,
+     "online": 7
+    },
+    {
+     "slug": "silva_and_aegis_prime_blueprint",
      "ingame": 8,
      "online": 8
     },
     {
-     "slug": "silva_and_aegis_prime_blueprint",
-     "ingame": 9,
-     "online": 9
-    },
-    {
      "slug": "silva_and_aegis_prime_guard",
-     "ingame": 22,
-     "online": 22
+     "ingame": 20,
+     "online": 20
     },
     {
      "slug": "silva_and_aegis_prime_hilt",
@@ -4337,35 +4337,35 @@
    "set": "Soma Prime Set",
    "slug": "soma_prime_set",
    "category": "weapon",
-   "set_price_ingame": 50,
-   "set_price_online": 50,
-   "parts_sum_ingame": 45,
+   "set_price_ingame": 52,
+   "set_price_online": 52,
+   "parts_sum_ingame": 47,
    "parts_sum_online": 45,
    "missing_parts": 0,
    "difference_ingame": -5,
-   "difference_online": -5,
-   "pct_ingame": -10.0,
-   "pct_online": -10.0,
+   "difference_online": -7,
+   "pct_ingame": -9.6,
+   "pct_online": -13.5,
    "parts": [
     {
      "slug": "soma_prime_barrel",
-     "ingame": 10,
-     "online": 10
-    },
-    {
-     "slug": "soma_prime_blueprint",
-     "ingame": 6,
-     "online": 6
-    },
-    {
-     "slug": "soma_prime_receiver",
      "ingame": 9,
      "online": 9
     },
     {
+     "slug": "soma_prime_blueprint",
+     "ingame": 5,
+     "online": 5
+    },
+    {
+     "slug": "soma_prime_receiver",
+     "ingame": 8,
+     "online": 8
+    },
+    {
      "slug": "soma_prime_stock",
-     "ingame": 20,
-     "online": 20
+     "ingame": 25,
+     "online": 23
     }
    ]
   },
@@ -4373,15 +4373,15 @@
    "set": "Spira Prime Set",
    "slug": "spira_prime_set",
    "category": "weapon",
-   "set_price_ingame": 105,
-   "set_price_online": 105,
-   "parts_sum_ingame": 55,
-   "parts_sum_online": 55,
+   "set_price_ingame": 109,
+   "set_price_online": 109,
+   "parts_sum_ingame": 64,
+   "parts_sum_online": 53,
    "missing_parts": 0,
-   "difference_ingame": -50,
-   "difference_online": -50,
-   "pct_ingame": -47.6,
-   "pct_online": -47.6,
+   "difference_ingame": -45,
+   "difference_online": -56,
+   "pct_ingame": -41.3,
+   "pct_online": -51.4,
    "parts": [
     {
      "slug": "spira_prime_blade",
@@ -4390,13 +4390,13 @@
     },
     {
      "slug": "spira_prime_blueprint",
-     "ingame": 10,
-     "online": 10
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "spira_prime_pouch",
-     "ingame": 30,
-     "online": 30
+     "ingame": 45,
+     "online": 34
     }
    ]
   },
@@ -4404,35 +4404,35 @@
    "set": "Steflos Prime Set",
    "slug": "steflos_prime_set",
    "category": "weapon",
-   "set_price_ingame": 69,
+   "set_price_ingame": 65,
    "set_price_online": 65,
-   "parts_sum_ingame": 45,
-   "parts_sum_online": 45,
+   "parts_sum_ingame": 49,
+   "parts_sum_online": 49,
    "missing_parts": 0,
-   "difference_ingame": -24,
-   "difference_online": -20,
-   "pct_ingame": -34.8,
-   "pct_online": -30.8,
+   "difference_ingame": -16,
+   "difference_online": -16,
+   "pct_ingame": -24.6,
+   "pct_online": -24.6,
    "parts": [
     {
      "slug": "steflos_prime_barrel",
-     "ingame": 24,
-     "online": 24
+     "ingame": 27,
+     "online": 27
     },
     {
      "slug": "steflos_prime_blueprint",
-     "ingame": 7,
-     "online": 7
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "steflos_prime_receiver",
-     "ingame": 6,
-     "online": 6
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "steflos_prime_stock",
-     "ingame": 8,
-     "online": 8
+     "ingame": 9,
+     "online": 9
     }
    ]
   },
@@ -4442,13 +4442,13 @@
    "category": "weapon",
    "set_price_ingame": 34,
    "set_price_online": 34,
-   "parts_sum_ingame": 30,
-   "parts_sum_online": 30,
+   "parts_sum_ingame": 31,
+   "parts_sum_online": 31,
    "missing_parts": 0,
-   "difference_ingame": -4,
-   "difference_online": -4,
-   "pct_ingame": -11.8,
-   "pct_online": -11.8,
+   "difference_ingame": -3,
+   "difference_online": -3,
+   "pct_ingame": -8.8,
+   "pct_online": -8.8,
    "parts": [
     {
      "slug": "stradavar_prime_barrel",
@@ -4457,8 +4457,8 @@
     },
     {
      "slug": "stradavar_prime_blueprint",
-     "ingame": 11,
-     "online": 11
+     "ingame": 13,
+     "online": 13
     },
     {
      "slug": "stradavar_prime_receiver",
@@ -4467,8 +4467,8 @@
     },
     {
      "slug": "stradavar_prime_stock",
-     "ingame": 10,
-     "online": 10
+     "ingame": 9,
+     "online": 9
     }
    ]
   },
@@ -4476,25 +4476,25 @@
    "set": "Strun Prime Set",
    "slug": "strun_prime_set",
    "category": "weapon",
-   "set_price_ingame": 65,
-   "set_price_online": 65,
-   "parts_sum_ingame": 46,
-   "parts_sum_online": 41,
+   "set_price_ingame": 60,
+   "set_price_online": 60,
+   "parts_sum_ingame": 44,
+   "parts_sum_online": 44,
    "missing_parts": 0,
-   "difference_ingame": -19,
-   "difference_online": -24,
-   "pct_ingame": -29.2,
-   "pct_online": -36.9,
+   "difference_ingame": -16,
+   "difference_online": -16,
+   "pct_ingame": -26.7,
+   "pct_online": -26.7,
    "parts": [
     {
      "slug": "strun_prime_barrel",
-     "ingame": 8,
-     "online": 6
+     "ingame": 7,
+     "online": 7
     },
     {
      "slug": "strun_prime_blueprint",
-     "ingame": 25,
-     "online": 22
+     "ingame": 24,
+     "online": 24
     },
     {
      "slug": "strun_prime_receiver",
@@ -4512,20 +4512,20 @@
    "set": "Styanax Prime Set",
    "slug": "styanax_prime_set",
    "category": "warframe",
-   "set_price_ingame": 38,
-   "set_price_online": 35,
-   "parts_sum_ingame": 28,
-   "parts_sum_online": 27,
+   "set_price_ingame": 37,
+   "set_price_online": 37,
+   "parts_sum_ingame": 22,
+   "parts_sum_online": 22,
    "missing_parts": 0,
-   "difference_ingame": -10,
-   "difference_online": -8,
-   "pct_ingame": -26.3,
-   "pct_online": -22.9,
+   "difference_ingame": -15,
+   "difference_online": -15,
+   "pct_ingame": -40.5,
+   "pct_online": -40.5,
    "parts": [
     {
      "slug": "styanax_prime_blueprint",
-     "ingame": 7,
-     "online": 7
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "styanax_prime_chassis_blueprint",
@@ -4534,13 +4534,13 @@
     },
     {
      "slug": "styanax_prime_neuroptics_blueprint",
-     "ingame": 13,
-     "online": 12
+     "ingame": 10,
+     "online": 10
     },
     {
      "slug": "styanax_prime_systems_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     }
    ]
   },
@@ -4550,18 +4550,18 @@
    "category": "weapon",
    "set_price_ingame": 74,
    "set_price_online": 74,
-   "parts_sum_ingame": 64,
-   "parts_sum_online": 64,
+   "parts_sum_ingame": 54,
+   "parts_sum_online": 54,
    "missing_parts": 0,
-   "difference_ingame": -10,
-   "difference_online": -10,
-   "pct_ingame": -13.5,
-   "pct_online": -13.5,
+   "difference_ingame": -20,
+   "difference_online": -20,
+   "pct_ingame": -27.0,
+   "pct_online": -27.0,
    "parts": [
     {
      "slug": "sybaris_prime_barrel",
-     "ingame": 38,
-     "online": 38
+     "ingame": 30,
+     "online": 30
     },
     {
      "slug": "sybaris_prime_blueprint",
@@ -4570,8 +4570,8 @@
     },
     {
      "slug": "sybaris_prime_receiver",
-     "ingame": 10,
-     "online": 10
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "sybaris_prime_stock",
@@ -4584,15 +4584,15 @@
    "set": "Tatsu Prime Set",
    "slug": "tatsu_prime_set",
    "category": "weapon",
-   "set_price_ingame": 20,
+   "set_price_ingame": 19,
    "set_price_online": 19,
-   "parts_sum_ingame": 23,
-   "parts_sum_online": 23,
+   "parts_sum_ingame": 28,
+   "parts_sum_online": 21,
    "missing_parts": 0,
-   "difference_ingame": 3,
-   "difference_online": 4,
-   "pct_ingame": 15.0,
-   "pct_online": 21.1,
+   "difference_ingame": 9,
+   "difference_online": 2,
+   "pct_ingame": 47.4,
+   "pct_online": 10.5,
    "parts": [
     {
      "slug": "tatsu_prime_blade",
@@ -4606,8 +4606,8 @@
     },
     {
      "slug": "tatsu_prime_handle",
-     "ingame": 15,
-     "online": 15
+     "ingame": 20,
+     "online": 13
     }
    ]
   },
@@ -4615,20 +4615,20 @@
    "set": "Tekko Prime Set",
    "slug": "tekko_prime_set",
    "category": "weapon",
-   "set_price_ingame": 70,
-   "set_price_online": 70,
-   "parts_sum_ingame": 34,
-   "parts_sum_online": 34,
+   "set_price_ingame": 75,
+   "set_price_online": 75,
+   "parts_sum_ingame": 37,
+   "parts_sum_online": 37,
    "missing_parts": 0,
-   "difference_ingame": -36,
-   "difference_online": -36,
-   "pct_ingame": -51.4,
-   "pct_online": -51.4,
+   "difference_ingame": -38,
+   "difference_online": -38,
+   "pct_ingame": -50.7,
+   "pct_online": -50.7,
    "parts": [
     {
      "slug": "tekko_prime_blade",
-     "ingame": 19,
-     "online": 19
+     "ingame": 22,
+     "online": 22
     },
     {
      "slug": "tekko_prime_blueprint",
@@ -4646,20 +4646,20 @@
    "set": "Tenora Prime Set",
    "slug": "tenora_prime_set",
    "category": "weapon",
-   "set_price_ingame": 75,
+   "set_price_ingame": 70,
    "set_price_online": 70,
-   "parts_sum_ingame": 54,
-   "parts_sum_online": 54,
+   "parts_sum_ingame": 55,
+   "parts_sum_online": 55,
    "missing_parts": 0,
-   "difference_ingame": -21,
-   "difference_online": -16,
-   "pct_ingame": -28.0,
-   "pct_online": -22.9,
+   "difference_ingame": -15,
+   "difference_online": -15,
+   "pct_ingame": -21.4,
+   "pct_online": -21.4,
    "parts": [
     {
      "slug": "tenora_prime_barrel",
-     "ingame": 15,
-     "online": 15
+     "ingame": 14,
+     "online": 14
     },
     {
      "slug": "tenora_prime_blueprint",
@@ -4668,8 +4668,8 @@
     },
     {
      "slug": "tenora_prime_receiver",
-     "ingame": 25,
-     "online": 25
+     "ingame": 27,
+     "online": 27
     },
     {
      "slug": "tenora_prime_stock",
@@ -4682,20 +4682,20 @@
    "set": "Tiberon Prime Set",
    "slug": "tiberon_prime_set",
    "category": "weapon",
-   "set_price_ingame": 69,
-   "set_price_online": 69,
-   "parts_sum_ingame": 55,
-   "parts_sum_online": 54,
+   "set_price_ingame": 65,
+   "set_price_online": 65,
+   "parts_sum_ingame": 50,
+   "parts_sum_online": 50,
    "missing_parts": 0,
-   "difference_ingame": -14,
+   "difference_ingame": -15,
    "difference_online": -15,
-   "pct_ingame": -20.3,
-   "pct_online": -21.7,
+   "pct_ingame": -23.1,
+   "pct_online": -23.1,
    "parts": [
     {
      "slug": "tiberon_prime_barrel",
-     "ingame": 14,
-     "online": 14
+     "ingame": 13,
+     "online": 13
     },
     {
      "slug": "tiberon_prime_blueprint",
@@ -4705,12 +4705,12 @@
     {
      "slug": "tiberon_prime_receiver",
      "ingame": 8,
-     "online": 7
+     "online": 8
     },
     {
      "slug": "tiberon_prime_stock",
-     "ingame": 28,
-     "online": 28
+     "ingame": 24,
+     "online": 24
     }
    ]
   },
@@ -4720,33 +4720,33 @@
    "category": "weapon",
    "set_price_ingame": 55,
    "set_price_online": 55,
-   "parts_sum_ingame": 42,
-   "parts_sum_online": 40,
+   "parts_sum_ingame": 45,
+   "parts_sum_online": 45,
    "missing_parts": 0,
-   "difference_ingame": -13,
-   "difference_online": -15,
-   "pct_ingame": -23.6,
-   "pct_online": -27.3,
+   "difference_ingame": -10,
+   "difference_online": -10,
+   "pct_ingame": -18.2,
+   "pct_online": -18.2,
    "parts": [
     {
      "slug": "tigris_prime_barrel",
-     "ingame": 7,
+     "ingame": 5,
      "online": 5
     },
     {
      "slug": "tigris_prime_blueprint",
-     "ingame": 20,
-     "online": 20
+     "ingame": 25,
+     "online": 25
     },
     {
      "slug": "tigris_prime_receiver",
-     "ingame": 10,
-     "online": 10
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "tigris_prime_stock",
-     "ingame": 5,
-     "online": 5
+     "ingame": 6,
+     "online": 6
     }
    ]
   },
@@ -4754,15 +4754,15 @@
    "set": "Tipedo Prime Set",
    "slug": "tipedo_prime_set",
    "category": "weapon",
-   "set_price_ingame": 62,
-   "set_price_online": 62,
-   "parts_sum_ingame": 38,
-   "parts_sum_online": 38,
+   "set_price_ingame": 63,
+   "set_price_online": 63,
+   "parts_sum_ingame": 40,
+   "parts_sum_online": 39,
    "missing_parts": 0,
-   "difference_ingame": -24,
+   "difference_ingame": -23,
    "difference_online": -24,
-   "pct_ingame": -38.7,
-   "pct_online": -38.7,
+   "pct_ingame": -36.5,
+   "pct_online": -38.1,
    "parts": [
     {
      "slug": "tipedo_prime_blueprint",
@@ -4776,8 +4776,8 @@
     },
     {
      "slug": "tipedo_prime_ornament",
-     "ingame": 8,
-     "online": 8
+     "ingame": 10,
+     "online": 9
     }
    ]
   },
@@ -4785,25 +4785,25 @@
    "set": "Titania Prime Set",
    "slug": "titania_prime_set",
    "category": "warframe",
-   "set_price_ingame": 70,
-   "set_price_online": 69,
-   "parts_sum_ingame": 50,
-   "parts_sum_online": 50,
+   "set_price_ingame": 68,
+   "set_price_online": 68,
+   "parts_sum_ingame": 56,
+   "parts_sum_online": 56,
    "missing_parts": 0,
-   "difference_ingame": -20,
-   "difference_online": -19,
-   "pct_ingame": -28.6,
-   "pct_online": -27.5,
+   "difference_ingame": -12,
+   "difference_online": -12,
+   "pct_ingame": -17.6,
+   "pct_online": -17.6,
    "parts": [
     {
      "slug": "titania_prime_blueprint",
-     "ingame": 1,
-     "online": 1
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "titania_prime_chassis_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 7,
+     "online": 7
     },
     {
      "slug": "titania_prime_neuroptics_blueprint",
@@ -4821,35 +4821,35 @@
    "set": "Trinity Prime Set",
    "slug": "trinity_prime_set",
    "category": "warframe",
-   "set_price_ingame": 50,
-   "set_price_online": 50,
+   "set_price_ingame": 53,
+   "set_price_online": 53,
    "parts_sum_ingame": 39,
    "parts_sum_online": 39,
    "missing_parts": 0,
-   "difference_ingame": -11,
-   "difference_online": -11,
-   "pct_ingame": -22.0,
-   "pct_online": -22.0,
+   "difference_ingame": -14,
+   "difference_online": -14,
+   "pct_ingame": -26.4,
+   "pct_online": -26.4,
    "parts": [
     {
      "slug": "trinity_prime_blueprint",
-     "ingame": 12,
-     "online": 12
+     "ingame": 15,
+     "online": 15
     },
     {
      "slug": "trinity_prime_chassis_blueprint",
+     "ingame": 8,
+     "online": 8
+    },
+    {
+     "slug": "trinity_prime_neuroptics_blueprint",
      "ingame": 9,
      "online": 9
     },
     {
-     "slug": "trinity_prime_neuroptics_blueprint",
-     "ingame": 10,
-     "online": 10
-    },
-    {
      "slug": "trinity_prime_systems_blueprint",
-     "ingame": 8,
-     "online": 8
+     "ingame": 7,
+     "online": 7
     }
    ]
   },
@@ -4869,23 +4869,23 @@
    "parts": [
     {
      "slug": "trumna_prime_barrel",
-     "ingame": 8,
-     "online": 8
-    },
-    {
-     "slug": "trumna_prime_blueprint",
-     "ingame": 2,
-     "online": 2
-    },
-    {
-     "slug": "trumna_prime_receiver",
      "ingame": 9,
      "online": 9
     },
     {
+     "slug": "trumna_prime_blueprint",
+     "ingame": 1,
+     "online": 1
+    },
+    {
+     "slug": "trumna_prime_receiver",
+     "ingame": 10,
+     "online": 10
+    },
+    {
      "slug": "trumna_prime_stock",
-     "ingame": 5,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     }
    ]
   },
@@ -4893,15 +4893,15 @@
    "set": "Vadarya Prime Set",
    "slug": "vadarya_prime_set",
    "category": "weapon",
-   "set_price_ingame": 15,
+   "set_price_ingame": 14,
    "set_price_online": 14,
-   "parts_sum_ingame": 17,
-   "parts_sum_online": 16,
+   "parts_sum_ingame": 18,
+   "parts_sum_online": 17,
    "missing_parts": 0,
-   "difference_ingame": 2,
-   "difference_online": 2,
-   "pct_ingame": 13.3,
-   "pct_online": 14.3,
+   "difference_ingame": 4,
+   "difference_online": 3,
+   "pct_ingame": 28.6,
+   "pct_online": 21.4,
    "parts": [
     {
      "slug": "vadarya_prime_barrel",
@@ -4920,8 +4920,8 @@
     },
     {
      "slug": "vadarya_prime_stock",
-     "ingame": 3,
-     "online": 3
+     "ingame": 4,
+     "online": 4
     }
    ]
   },
@@ -4929,35 +4929,35 @@
    "set": "Valkyr Prime Set",
    "slug": "valkyr_prime_set",
    "category": "warframe",
-   "set_price_ingame": 70,
-   "set_price_online": 68,
-   "parts_sum_ingame": 64,
-   "parts_sum_online": 64,
+   "set_price_ingame": 65,
+   "set_price_online": 65,
+   "parts_sum_ingame": 69,
+   "parts_sum_online": 67,
    "missing_parts": 0,
-   "difference_ingame": -6,
-   "difference_online": -4,
-   "pct_ingame": -8.6,
-   "pct_online": -5.9,
+   "difference_ingame": 4,
+   "difference_online": 2,
+   "pct_ingame": 6.2,
+   "pct_online": 3.1,
    "parts": [
     {
      "slug": "valkyr_prime_blueprint",
-     "ingame": 7,
-     "online": 7
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "valkyr_prime_chassis_blueprint",
-     "ingame": 35,
-     "online": 35
+     "ingame": 36,
+     "online": 36
     },
     {
      "slug": "valkyr_prime_neuroptics_blueprint",
-     "ingame": 9,
-     "online": 9
+     "ingame": 10,
+     "online": 8
     },
     {
      "slug": "valkyr_prime_systems_blueprint",
-     "ingame": 13,
-     "online": 13
+     "ingame": 15,
+     "online": 15
     }
    ]
   },
@@ -4967,28 +4967,28 @@
    "category": "weapon",
    "set_price_ingame": 20,
    "set_price_online": 20,
-   "parts_sum_ingame": 23,
+   "parts_sum_ingame": 21,
    "parts_sum_online": 21,
    "missing_parts": 0,
-   "difference_ingame": 3,
+   "difference_ingame": 1,
    "difference_online": 1,
-   "pct_ingame": 15.0,
+   "pct_ingame": 5.0,
    "pct_online": 5.0,
    "parts": [
     {
      "slug": "vasto_prime_barrel",
-     "ingame": 9,
-     "online": 7
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "vasto_prime_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 6,
+     "online": 6
     },
     {
      "slug": "vasto_prime_receiver",
-     "ingame": 9,
-     "online": 9
+     "ingame": 7,
+     "online": 7
     }
    ]
   },
@@ -4996,25 +4996,25 @@
    "set": "Vauban Prime Set",
    "slug": "vauban_prime_set",
    "category": "warframe",
-   "set_price_ingame": 112,
-   "set_price_online": 112,
-   "parts_sum_ingame": 98,
-   "parts_sum_online": 98,
+   "set_price_ingame": 118,
+   "set_price_online": 118,
+   "parts_sum_ingame": 105,
+   "parts_sum_online": 105,
    "missing_parts": 0,
-   "difference_ingame": -14,
-   "difference_online": -14,
-   "pct_ingame": -12.5,
-   "pct_online": -12.5,
+   "difference_ingame": -13,
+   "difference_online": -13,
+   "pct_ingame": -11.0,
+   "pct_online": -11.0,
    "parts": [
     {
      "slug": "vauban_prime_blueprint",
-     "ingame": 12,
-     "online": 12
+     "ingame": 15,
+     "online": 15
     },
     {
      "slug": "vauban_prime_chassis_blueprint",
-     "ingame": 21,
-     "online": 21
+     "ingame": 22,
+     "online": 22
     },
     {
      "slug": "vauban_prime_neuroptics_blueprint",
@@ -5023,8 +5023,8 @@
     },
     {
      "slug": "vauban_prime_systems_blueprint",
-     "ingame": 36,
-     "online": 36
+     "ingame": 39,
+     "online": 39
     }
    ]
   },
@@ -5032,15 +5032,15 @@
    "set": "Vectis Prime Set",
    "slug": "vectis_prime_set",
    "category": "weapon",
-   "set_price_ingame": 135,
-   "set_price_online": 135,
-   "parts_sum_ingame": 112,
-   "parts_sum_online": 105,
+   "set_price_ingame": 134,
+   "set_price_online": 134,
+   "parts_sum_ingame": 102,
+   "parts_sum_online": 101,
    "missing_parts": 0,
-   "difference_ingame": -23,
-   "difference_online": -30,
-   "pct_ingame": -17.0,
-   "pct_online": -22.2,
+   "difference_ingame": -32,
+   "difference_online": -33,
+   "pct_ingame": -23.9,
+   "pct_online": -24.6,
    "parts": [
     {
      "slug": "vectis_prime_barrel",
@@ -5054,13 +5054,13 @@
     },
     {
      "slug": "vectis_prime_receiver",
-     "ingame": 55,
-     "online": 55
+     "ingame": 53,
+     "online": 53
     },
     {
      "slug": "vectis_prime_stock",
-     "ingame": 28,
-     "online": 22
+     "ingame": 20,
+     "online": 20
     }
    ]
   },
@@ -5070,23 +5070,23 @@
    "category": "weapon",
    "set_price_ingame": 15,
    "set_price_online": 15,
-   "parts_sum_ingame": 19,
-   "parts_sum_online": 18,
+   "parts_sum_ingame": 16,
+   "parts_sum_online": 16,
    "missing_parts": 0,
-   "difference_ingame": 4,
-   "difference_online": 3,
-   "pct_ingame": 26.7,
-   "pct_online": 20.0,
+   "difference_ingame": 1,
+   "difference_online": 1,
+   "pct_ingame": 6.7,
+   "pct_online": 6.7,
    "parts": [
     {
      "slug": "velox_prime_barrel",
-     "ingame": 10,
-     "online": 10
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "velox_prime_blueprint",
-     "ingame": 5,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "velox_prime_receiver",
@@ -5099,20 +5099,20 @@
    "set": "Venato Prime Set",
    "slug": "venato_prime_set",
    "category": "weapon",
-   "set_price_ingame": 12,
+   "set_price_ingame": 11,
    "set_price_online": 10,
    "parts_sum_ingame": 15,
    "parts_sum_online": 15,
    "missing_parts": 0,
-   "difference_ingame": 3,
+   "difference_ingame": 4,
    "difference_online": 5,
-   "pct_ingame": 25.0,
+   "pct_ingame": 36.4,
    "pct_online": 50.0,
    "parts": [
     {
      "slug": "venato_prime_blade",
-     "ingame": 9,
-     "online": 9
+     "ingame": 8,
+     "online": 8
     },
     {
      "slug": "venato_prime_blueprint",
@@ -5121,8 +5121,8 @@
     },
     {
      "slug": "venato_prime_handle",
-     "ingame": 3,
-     "online": 3
+     "ingame": 4,
+     "online": 4
     }
    ]
   },
@@ -5130,15 +5130,15 @@
    "set": "Venka Prime Set",
    "slug": "venka_prime_set",
    "category": "weapon",
-   "set_price_ingame": 50,
-   "set_price_online": 50,
+   "set_price_ingame": 55,
+   "set_price_online": 55,
    "parts_sum_ingame": 34,
    "parts_sum_online": 34,
    "missing_parts": 0,
-   "difference_ingame": -16,
-   "difference_online": -16,
-   "pct_ingame": -32.0,
-   "pct_online": -32.0,
+   "difference_ingame": -21,
+   "difference_online": -21,
+   "pct_ingame": -38.2,
+   "pct_online": -38.2,
    "parts": [
     {
      "slug": "venka_prime_blades",
@@ -5161,30 +5161,30 @@
    "set": "Volnus Prime Set",
    "slug": "volnus_prime_set",
    "category": "weapon",
-   "set_price_ingame": 29,
+   "set_price_ingame": 30,
    "set_price_online": 28,
-   "parts_sum_ingame": 28,
-   "parts_sum_online": 26,
+   "parts_sum_ingame": 29,
+   "parts_sum_online": 29,
    "missing_parts": 0,
    "difference_ingame": -1,
-   "difference_online": -2,
-   "pct_ingame": -3.4,
-   "pct_online": -7.1,
+   "difference_online": 1,
+   "pct_ingame": -3.3,
+   "pct_online": 3.6,
    "parts": [
     {
      "slug": "volnus_prime_blueprint",
-     "ingame": 4,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "volnus_prime_handle",
-     "ingame": 19,
-     "online": 17
+     "ingame": 20,
+     "online": 20
     },
     {
      "slug": "volnus_prime_head",
-     "ingame": 5,
-     "online": 5
+     "ingame": 6,
+     "online": 6
     }
    ]
   },
@@ -5192,20 +5192,20 @@
    "set": "Volt Prime Set",
    "slug": "volt_prime_set",
    "category": "warframe",
-   "set_price_ingame": 67,
-   "set_price_online": 67,
-   "parts_sum_ingame": 61,
-   "parts_sum_online": 60,
+   "set_price_ingame": 68,
+   "set_price_online": 66,
+   "parts_sum_ingame": 54,
+   "parts_sum_online": 54,
    "missing_parts": 0,
-   "difference_ingame": -6,
-   "difference_online": -7,
-   "pct_ingame": -9.0,
-   "pct_online": -10.4,
+   "difference_ingame": -14,
+   "difference_online": -12,
+   "pct_ingame": -20.6,
+   "pct_online": -18.2,
    "parts": [
     {
      "slug": "volt_prime_blueprint",
-     "ingame": 13,
-     "online": 13
+     "ingame": 10,
+     "online": 10
     },
     {
      "slug": "volt_prime_chassis_blueprint",
@@ -5214,13 +5214,13 @@
     },
     {
      "slug": "volt_prime_neuroptics_blueprint",
-     "ingame": 28,
-     "online": 28
+     "ingame": 24,
+     "online": 24
     },
     {
      "slug": "volt_prime_systems_blueprint",
      "ingame": 10,
-     "online": 9
+     "online": 10
     }
    ]
   },
@@ -5228,24 +5228,24 @@
    "set": "Voruna Prime Set",
    "slug": "voruna_prime_set",
    "category": "warframe",
-   "set_price_ingame": 39,
+   "set_price_ingame": 35,
    "set_price_online": 35,
-   "parts_sum_ingame": 35,
-   "parts_sum_online": 35,
+   "parts_sum_ingame": 38,
+   "parts_sum_online": 37,
    "missing_parts": 0,
-   "difference_ingame": -4,
-   "difference_online": 0,
-   "pct_ingame": -10.3,
-   "pct_online": 0.0,
+   "difference_ingame": 3,
+   "difference_online": 2,
+   "pct_ingame": 8.6,
+   "pct_online": 5.7,
    "parts": [
     {
      "slug": "voruna_prime_blueprint",
-     "ingame": 18,
-     "online": 18
+     "ingame": 20,
+     "online": 20
     },
     {
      "slug": "voruna_prime_chassis_blueprint",
-     "ingame": 7,
+     "ingame": 8,
      "online": 7
     },
     {
@@ -5266,23 +5266,23 @@
    "category": "warframe",
    "set_price_ingame": 65,
    "set_price_online": 65,
-   "parts_sum_ingame": 62,
-   "parts_sum_online": 59,
+   "parts_sum_ingame": 63,
+   "parts_sum_online": 60,
    "missing_parts": 0,
-   "difference_ingame": -3,
-   "difference_online": -6,
-   "pct_ingame": -4.6,
-   "pct_online": -9.2,
+   "difference_ingame": -2,
+   "difference_online": -5,
+   "pct_ingame": -3.1,
+   "pct_online": -7.7,
    "parts": [
     {
      "slug": "wisp_prime_blueprint",
-     "ingame": 34,
-     "online": 34
+     "ingame": 35,
+     "online": 35
     },
     {
      "slug": "wisp_prime_chassis_blueprint",
-     "ingame": 16,
-     "online": 14
+     "ingame": 18,
+     "online": 16
     },
     {
      "slug": "wisp_prime_neuroptics_blueprint",
@@ -5291,8 +5291,8 @@
     },
     {
      "slug": "wisp_prime_systems_blueprint",
-     "ingame": 7,
-     "online": 7
+     "ingame": 5,
+     "online": 5
     }
    ]
   },
@@ -5302,18 +5302,18 @@
    "category": "warframe",
    "set_price_ingame": 74,
    "set_price_online": 74,
-   "parts_sum_ingame": 58,
-   "parts_sum_online": 58,
+   "parts_sum_ingame": 61,
+   "parts_sum_online": 61,
    "missing_parts": 0,
-   "difference_ingame": -16,
-   "difference_online": -16,
-   "pct_ingame": -21.6,
-   "pct_online": -21.6,
+   "difference_ingame": -13,
+   "difference_online": -13,
+   "pct_ingame": -17.6,
+   "pct_online": -17.6,
    "parts": [
     {
      "slug": "wukong_prime_blueprint",
-     "ingame": 29,
-     "online": 29
+     "ingame": 30,
+     "online": 30
     },
     {
      "slug": "wukong_prime_chassis_blueprint",
@@ -5327,8 +5327,8 @@
     },
     {
      "slug": "wukong_prime_systems_blueprint",
-     "ingame": 12,
-     "online": 12
+     "ingame": 14,
+     "online": 14
     }
    ]
   },
@@ -5336,15 +5336,15 @@
    "set": "Wyrm Prime Set",
    "slug": "wyrm_prime_set",
    "category": "companion",
-   "set_price_ingame": 74,
-   "set_price_online": 74,
+   "set_price_ingame": 75,
+   "set_price_online": 75,
    "parts_sum_ingame": 83,
    "parts_sum_online": 83,
    "missing_parts": 0,
-   "difference_ingame": 9,
-   "difference_online": 9,
-   "pct_ingame": 12.2,
-   "pct_online": 12.2,
+   "difference_ingame": 8,
+   "difference_online": 8,
+   "pct_ingame": 10.7,
+   "pct_online": 10.7,
    "parts": [
     {
      "slug": "wyrm_prime_blueprint",
@@ -5353,18 +5353,18 @@
     },
     {
      "slug": "wyrm_prime_carapace",
-     "ingame": 13,
-     "online": 13
+     "ingame": 14,
+     "online": 14
     },
     {
      "slug": "wyrm_prime_cerebrum",
-     "ingame": 20,
-     "online": 20
+     "ingame": 22,
+     "online": 22
     },
     {
      "slug": "wyrm_prime_systems",
-     "ingame": 38,
-     "online": 38
+     "ingame": 35,
+     "online": 35
     }
    ]
   },
@@ -5372,35 +5372,35 @@
    "set": "Xaku Prime Set",
    "slug": "xaku_prime_set",
    "category": "warframe",
-   "set_price_ingame": 25,
-   "set_price_online": 2,
+   "set_price_ingame": 20,
+   "set_price_online": 20,
    "parts_sum_ingame": 20,
-   "parts_sum_online": 20,
+   "parts_sum_online": 19,
    "missing_parts": 0,
-   "difference_ingame": -5,
-   "difference_online": 18,
-   "pct_ingame": -20.0,
-   "pct_online": 900.0,
+   "difference_ingame": 0,
+   "difference_online": -1,
+   "pct_ingame": 0.0,
+   "pct_online": -5.0,
    "parts": [
     {
      "slug": "xaku_prime_blueprint",
-     "ingame": 11,
+     "ingame": 12,
      "online": 11
     },
     {
      "slug": "xaku_prime_chassis_blueprint",
-     "ingame": 4,
-     "online": 4
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "xaku_prime_neuroptics_blueprint",
-     "ingame": 2,
-     "online": 2
+     "ingame": 3,
+     "online": 3
     },
     {
      "slug": "xaku_prime_systems_blueprint",
-     "ingame": 3,
-     "online": 3
+     "ingame": 2,
+     "online": 2
     }
    ]
   },
@@ -5408,19 +5408,19 @@
    "set": "Yareli Prime Set",
    "slug": "yareli_prime_set",
    "category": "warframe",
-   "set_price_ingame": 29,
-   "set_price_online": 23,
+   "set_price_ingame": 20,
+   "set_price_online": 20,
    "parts_sum_ingame": 24,
-   "parts_sum_online": 21,
+   "parts_sum_online": 24,
    "missing_parts": 0,
-   "difference_ingame": -5,
-   "difference_online": -2,
-   "pct_ingame": -17.2,
-   "pct_online": -8.7,
+   "difference_ingame": 4,
+   "difference_online": 4,
+   "pct_ingame": 20.0,
+   "pct_online": 20.0,
    "parts": [
     {
      "slug": "yareli_prime_blueprint",
-     "ingame": 4,
+     "ingame": 3,
      "online": 3
     },
     {
@@ -5430,12 +5430,12 @@
     },
     {
      "slug": "yareli_prime_neuroptics_blueprint",
-     "ingame": 6,
-     "online": 6
+     "ingame": 9,
+     "online": 9
     },
     {
      "slug": "yareli_prime_systems_blueprint",
-     "ingame": 12,
+     "ingame": 10,
      "online": 10
     }
    ]
@@ -5444,25 +5444,25 @@
    "set": "Zakti Prime Set",
    "slug": "zakti_prime_set",
    "category": "weapon",
-   "set_price_ingame": 45,
-   "set_price_online": 45,
-   "parts_sum_ingame": 34,
-   "parts_sum_online": 34,
+   "set_price_ingame": 44,
+   "set_price_online": 44,
+   "parts_sum_ingame": 30,
+   "parts_sum_online": 30,
    "missing_parts": 0,
-   "difference_ingame": -11,
-   "difference_online": -11,
-   "pct_ingame": -24.4,
-   "pct_online": -24.4,
+   "difference_ingame": -14,
+   "difference_online": -14,
+   "pct_ingame": -31.8,
+   "pct_online": -31.8,
    "parts": [
     {
      "slug": "zakti_prime_barrel",
-     "ingame": 4,
-     "online": 4
+     "ingame": 5,
+     "online": 5
     },
     {
      "slug": "zakti_prime_blueprint",
-     "ingame": 25,
-     "online": 25
+     "ingame": 20,
+     "online": 20
     },
     {
      "slug": "zakti_prime_receiver",
@@ -5475,35 +5475,35 @@
    "set": "Zephyr Prime Set",
    "slug": "zephyr_prime_set",
    "category": "warframe",
-   "set_price_ingame": 75,
-   "set_price_online": 75,
+   "set_price_ingame": 74,
+   "set_price_online": 74,
    "parts_sum_ingame": 68,
-   "parts_sum_online": 67,
+   "parts_sum_online": 64,
    "missing_parts": 0,
-   "difference_ingame": -7,
-   "difference_online": -8,
-   "pct_ingame": -9.3,
-   "pct_online": -10.7,
+   "difference_ingame": -6,
+   "difference_online": -10,
+   "pct_ingame": -8.1,
+   "pct_online": -13.5,
    "parts": [
     {
      "slug": "zephyr_prime_blueprint",
-     "ingame": 18,
-     "online": 18
+     "ingame": 17,
+     "online": 15
     },
     {
      "slug": "zephyr_prime_chassis_blueprint",
-     "ingame": 6,
-     "online": 6
+     "ingame": 8,
+     "online": 7
     },
     {
      "slug": "zephyr_prime_neuroptics_blueprint",
-     "ingame": 4,
+     "ingame": 5,
      "online": 4
     },
     {
      "slug": "zephyr_prime_systems_blueprint",
-     "ingame": 40,
-     "online": 39
+     "ingame": 38,
+     "online": 38
     }
    ]
   },
@@ -5511,25 +5511,25 @@
    "set": "Zhuge Prime Set",
    "slug": "zhuge_prime_set",
    "category": "weapon",
-   "set_price_ingame": 45,
-   "set_price_online": 45,
+   "set_price_ingame": 48,
+   "set_price_online": 40,
    "parts_sum_ingame": 40,
    "parts_sum_online": 39,
    "missing_parts": 0,
-   "difference_ingame": -5,
-   "difference_online": -6,
-   "pct_ingame": -11.1,
-   "pct_online": -13.3,
+   "difference_ingame": -8,
+   "difference_online": -1,
+   "pct_ingame": -16.7,
+   "pct_online": -2.5,
    "parts": [
     {
      "slug": "zhuge_prime_barrel",
-     "ingame": 17,
-     "online": 17
+     "ingame": 15,
+     "online": 15
     },
     {
      "slug": "zhuge_prime_blueprint",
-     "ingame": 5,
-     "online": 5
+     "ingame": 4,
+     "online": 4
     },
     {
      "slug": "zhuge_prime_grip",
@@ -5538,13 +5538,13 @@
     },
     {
      "slug": "zhuge_prime_receiver",
-     "ingame": 5,
-     "online": 5
+     "ingame": 7,
+     "online": 7
     },
     {
      "slug": "zhuge_prime_string",
-     "ingame": 8,
-     "online": 8
+     "ingame": 9,
+     "online": 9
     }
    ]
   },
@@ -5552,15 +5552,15 @@
    "set": "Zylok Prime Set",
    "slug": "zylok_prime_set",
    "category": "weapon",
-   "set_price_ingame": 22,
-   "set_price_online": 22,
+   "set_price_ingame": 24,
+   "set_price_online": 24,
    "parts_sum_ingame": 19,
    "parts_sum_online": 19,
    "missing_parts": 0,
-   "difference_ingame": -3,
-   "difference_online": -3,
-   "pct_ingame": -13.6,
-   "pct_online": -13.6,
+   "difference_ingame": -5,
+   "difference_online": -5,
+   "pct_ingame": -20.8,
+   "pct_online": -20.8,
    "parts": [
     {
      "slug": "zylok_prime_barrel",
